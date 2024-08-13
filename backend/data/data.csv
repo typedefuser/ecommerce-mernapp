@@ -1,0 +1,1001 @@
+product_id,product_name,price,quantity_available,category,brand,shipping_cost,arrival_date
+1,Pork - Kidney,183.55,105,toys,Whirlwind,46.2,5/27/2022
+2,Yeast Dry - Fleischman,171.34,794,clothing,Horizon,27.8,3/23/2022
+3,Peach - Fresh,291.48,221,toys,Luminous,34.08,7/6/2022
+4,"Chicken - White Meat, No Tender",464.32,116,home decor,Luminous,20.64,10/3/2022
+5,Pie Pecan,188.57,991,toys,Moonbeam,17.96,8/7/2022
+6,Soup - Campbells - Chicken Noodle,305.3,17,electronics,Luminous,32.81,4/29/2022
+7,Cheese Cloth No 60,226.07,124,electronics,Polaris,27.0,9/11/2022
+8,"Pork - Tenderloin, Frozen",906.86,342,clothing,Sapphire,31.02,7/28/2022
+9,Cheese - Sheep Milk,597.19,188,sports equipment,Evergreen,31.27,12/15/2022
+10,"Cheese - Havarti, Salsa",72.9,638,electronics,Thunderbolt,44.05,2/24/2022
+11,Pepsi - 600ml,738.34,128,clothing,Wildfire,48.62,9/26/2022
+12,Plate Foam Laminated 9in Blk,213.07,941,clothing,Eclipse,9.57,5/14/2022
+13,Fiddlehead - Frozen,188.93,932,home decor,Starlight,30.84,4/4/2022
+14,Ginsing - Fresh,160.73,283,electronics,Horizon,27.66,12/13/2022
+15,Container - Clear 16 Oz,415.34,751,clothing,Evergreen,47.41,11/21/2022
+16,Wine - Lamancha Do Crianza,118.69,756,clothing,Acme,8.73,9/15/2022
+17,"Veal - Inside Round / Top, Lean",227.26,712,home decor,Horizon,35.49,2/23/2022
+18,Wine - German Riesling,30.81,934,clothing,Starlight,29.47,9/30/2022
+19,Water - Spring Water 500ml,747.02,117,home decor,Acme,5.75,5/2/2022
+20,Island Oasis - Ice Cream Mix,593.91,981,sports equipment,Whirlwind,48.63,8/15/2022
+21,"Lentils - Red, Dry",952.53,171,electronics,Polaris,8.31,2/21/2022
+22,Cafe Royale,349.38,864,books,Silverstone,47.56,5/27/2022
+23,Bread - Granary Small Pull,40.21,723,books,Mystique,17.78,1/29/2022
+24,Beef Striploin Aaa,171.2,53,books,Horizon,42.68,1/12/2022
+25,Beets,177.23,356,toys,Silverstone,28.97,7/27/2022
+26,"Yogurt - Blueberry, 175 Gr",142.64,568,home decor,Luminous,14.16,3/1/2022
+27,Muskox - French Rack,603.99,410,toys,Radiant,23.92,11/10/2022
+28,"Doilies - 5, Paper",185.83,744,clothing,Evergreen,18.03,2/23/2022
+29,Compound - Rum,489.1,347,clothing,Evergreen,48.5,9/18/2022
+30,Broom - Angled,265.62,502,home decor,Radiant,10.25,12/29/2022
+31,Jolt Cola - Electric Blue,933.22,437,sports equipment,Eclipse,9.22,6/7/2022
+32,"Liqueur Banana, Ramazzotti",737.8,912,home decor,Wildfire,20.23,2/19/2022
+33,Nut - Pumpkin Seeds,9.35,171,sports equipment,Eclipse,9.69,3/16/2022
+34,Shiro Miso,89.92,928,sports equipment,Sunset,6.2,6/24/2022
+35,Parsley Italian - Fresh,488.35,502,toys,Whirlwind,19.67,11/22/2022
+36,Lid Coffeecup 12oz D9542b,324.02,979,books,Cascade,18.88,1/27/2022
+37,"Pepper - Chillies, Crushed",367.94,803,electronics,Polaris,37.73,12/1/2022
+38,"Pasta - Fettuccine, Dry",71.39,978,electronics,Mystique,36.32,4/18/2022
+39,Wine - Dubouef Macon - Villages,76.22,411,clothing,Vortex,40.61,3/11/2022
+40,Potatoes - Parissienne,777.54,824,toys,Wildfire,33.93,7/21/2022
+41,Towel Multifold,224.39,477,sports equipment,Thunderbolt,11.87,7/15/2022
+42,"Beef - Roasted, Cooked",512.93,324,electronics,Avalanche,41.74,7/31/2022
+43,Sugar - White Packet,769.8,653,sports equipment,Horizon,3.24,7/9/2022
+44,"Bread - White, Unsliced",422.54,270,home decor,Acme,15.84,3/28/2022
+45,"Soup - Campbells, Classic Chix",224.24,816,toys,Luminous,3.14,11/2/2022
+46,Milk - Condensed,373.25,3,toys,Polaris,5.8,10/19/2022
+47,Veal - Bones,370.28,877,electronics,Vortex,17.69,6/25/2022
+48,Creme De Cacao Mcguines,591.15,647,books,Thunderbolt,39.01,1/3/2022
+49,Cheese - Comtomme,658.54,24,clothing,Avalanche,8.08,10/7/2022
+50,Syrup - Kahlua Chocolate,520.11,99,electronics,Acme,18.29,4/15/2022
+51,Tofu - Soft,61.56,183,clothing,Cascade,19.89,6/20/2022
+52,"Brandy - Orange, Mc Guiness",976.83,363,electronics,Avalanche,46.58,4/22/2022
+53,Foil Cont Round,323.71,694,clothing,Firefly,31.82,7/15/2022
+54,Jam - Raspberry,797.88,495,clothing,Mystique,38.58,5/23/2022
+55,Cut Wakame - Hanawakaba,647.53,934,sports equipment,Radiant,7.77,8/17/2022
+56,Muffin - Banana Nut Individual,443.97,399,sports equipment,Sapphire,23.86,11/30/2022
+57,Tofu - Soft,893.68,641,home decor,Cascade,43.22,6/26/2022
+58,Potatoes - Fingerling 4 Oz,980.22,566,electronics,Sapphire,14.47,2/9/2022
+59,"Chicken - Leg, Boneless",320.22,810,home decor,Moonbeam,26.25,3/9/2022
+60,Sausage - Andouille,710.12,904,home decor,Wildfire,31.73,11/11/2022
+61,"Clams - Littleneck, Whole",842.5,575,home decor,Mystique,18.95,5/11/2022
+62,Piping Jelly - All Colours,98.36,874,sports equipment,Vortex,1.84,4/21/2022
+63,Beef - Ground Medium,367.45,668,toys,Firefly,5.01,4/18/2022
+64,Containter - 3oz Microwave Rect.,423.74,338,books,Silverstone,14.96,11/6/2022
+65,V8 - Tropical Blend,467.36,303,electronics,Silverstone,0.95,5/1/2022
+66,Ham - Procutinni,985.42,775,home decor,Wildfire,21.37,6/1/2022
+67,"Wine - White, Ej Gallo",165.14,725,electronics,Moonbeam,48.74,1/27/2022
+68,Huck White Towels,901.2,572,toys,Vortex,49.12,7/25/2022
+69,"Water - Spring Water, 355 Ml",806.62,344,clothing,Thunderbolt,2.18,11/27/2022
+70,Bread Roll Foccacia,69.75,712,toys,Silverstone,45.34,1/23/2022
+71,Carrots - Mini Red Organic,541.25,795,books,Eclipse,11.06,11/1/2022
+72,Longos - Chicken Curried,367.45,454,toys,Starlight,8.39,7/2/2022
+73,Quail - Jumbo Boneless,104.8,642,home decor,Luminous,9.67,7/29/2022
+74,Pasta - Orecchiette,249.12,795,books,Vortex,41.17,8/17/2022
+75,Appetizer - Mushroom Tart,301.36,64,toys,Luminous,49.2,1/26/2022
+76,Muffin - Mix - Strawberry Rhubarb,607.58,274,books,Polaris,20.86,1/25/2022
+77,Dry Ice,959.52,290,sports equipment,Sunset,30.08,12/18/2022
+78,"Jam - Blackberry, 20 Ml Jar",948.22,172,sports equipment,Avalanche,35.05,2/8/2022
+79,Cheese - Parmigiano Reggiano,108.45,376,toys,Mystique,16.69,5/5/2022
+80,Steamers White,985.19,462,toys,Evergreen,10.15,12/18/2022
+81,Beef - Eye Of Round,504.14,732,books,Starlight,33.93,8/26/2022
+82,Pastry - Baked Cinnamon Stick,233.34,798,sports equipment,Thunderbolt,11.04,1/16/2022
+83,Pastry - Apple Large,344.22,518,books,Acme,31.42,5/28/2022
+84,Parsley - Fresh,205.19,683,home decor,Horizon,25.27,7/20/2022
+85,Tea - Apple Green Tea,271.12,431,sports equipment,Radiant,41.75,8/21/2022
+86,Tomato Paste,334.06,753,clothing,Avalanche,19.17,10/3/2022
+87,Kaffir Lime Leaves,417.86,903,clothing,Horizon,46.81,12/16/2022
+88,Wine - Casillero Deldiablo,747.92,623,toys,Polaris,26.18,5/16/2022
+89,Bread - Italian Sesame Poly,543.34,876,toys,Avalanche,14.94,7/24/2022
+90,Sauce - Soy Low Sodium - 3.87l,894.3,154,sports equipment,Radiant,27.27,1/14/2022
+91,"Veal - Shank, Pieces",322.45,535,toys,Silverstone,18.94,10/20/2022
+92,Beer - Tetleys,685.72,59,home decor,Sunset,0.91,12/7/2022
+93,Pork - Smoked Kassler,49.29,44,toys,Luminous,25.34,11/14/2022
+94,"Yeast - Fresh, Fleischman",421.06,361,toys,Luminous,33.41,6/24/2022
+95,Mayonnaise - Individual Pkg,458.54,274,electronics,Starlight,26.88,4/7/2022
+96,Container - Foam Dixie 12 Oz,935.8,807,sports equipment,Evergreen,19.18,12/7/2022
+97,Wine - Zonnebloem Pinotage,284.03,875,sports equipment,Luminous,5.36,8/2/2022
+98,Wine - Barbera Alba Doc 2001,295.74,731,clothing,Mystique,4.98,12/15/2022
+99,Ham - Procutinni,184.04,36,toys,Sapphire,4.55,9/20/2022
+100,"7up Diet, 355 Ml",784.64,624,electronics,Firefly,46.61,8/7/2022
+101,Bread - Rye,259.22,37,sports equipment,Whirlwind,3.36,8/28/2022
+102,"Wine - White, Riesling, Semi - Dry",405.18,967,clothing,Moonbeam,22.55,1/7/2022
+103,Monkfish Fresh - Skin Off,860.06,307,home decor,Firefly,41.62,9/7/2022
+104,Apples - Sliced / Wedge,768.04,36,home decor,Moonbeam,4.13,9/22/2022
+105,Cheese - Grie Des Champ,69.15,975,electronics,Firefly,40.64,9/20/2022
+106,Cheese - Marble,903.28,46,home decor,Sapphire,23.11,8/13/2022
+107,Flower - Carnations,127.45,663,books,Vortex,1.78,6/6/2022
+108,Cookie - Oatmeal,678.36,478,clothing,Mystique,37.55,12/1/2022
+109,Ice Cream Bar - Hagen Daz,899.84,680,books,Radiant,36.36,3/30/2022
+110,Beer - Rickards Red,108.79,439,home decor,Polaris,35.27,10/19/2022
+111,Scallops - 10/20,464.13,495,sports equipment,Evergreen,15.88,8/1/2022
+112,Broom And Broom Rack White,886.66,257,clothing,Polaris,30.96,10/11/2022
+113,"Pasta - Canelloni, Single Serve",200.48,161,clothing,Polaris,22.7,1/19/2022
+114,Lettuce - Boston Bib,271.85,240,home decor,Sunset,21.68,8/14/2022
+115,Appetizer - Veg Assortment,694.77,232,sports equipment,Horizon,18.93,2/15/2022
+116,Nut - Macadamia,520.7,539,electronics,Eclipse,41.92,9/18/2022
+117,Pheasants - Whole,968.62,836,clothing,Eclipse,43.25,10/24/2022
+118,Eggplant Italian,92.13,46,home decor,Cascade,19.75,11/5/2022
+119,Sponge Cake Mix - Vanilla,407.11,166,books,Mystique,44.0,9/14/2022
+120,Mikes Hard Lemonade,610.41,413,clothing,Moonbeam,1.3,1/14/2022
+121,Longos - Grilled Veg Sandwiches,111.98,382,toys,Wildfire,35.37,3/9/2022
+122,Oxtail - Cut,750.18,273,clothing,Acme,20.07,9/9/2022
+123,True - Vue Containers,132.51,367,toys,Acme,46.71,3/8/2022
+124,Yucca,877.97,923,books,Avalanche,16.17,9/14/2022
+125,Mushroom - White Button,971.43,249,sports equipment,Sapphire,15.62,9/22/2022
+126,Cumin - Whole,585.55,859,books,Evergreen,44.92,12/9/2022
+127,Rabbit - Whole,646.37,180,toys,Acme,36.85,8/1/2022
+128,Soup - Campbells Asian Noodle,622.19,111,toys,Horizon,22.81,12/10/2022
+129,Compound - Strawberry,698.25,584,home decor,Vortex,47.93,12/21/2022
+130,Onion Powder,345.16,319,books,Vortex,48.71,10/3/2022
+131,Garam Masala Powder,579.61,319,books,Horizon,20.01,9/7/2022
+132,Muffin - Banana Nut Individual,848.8,671,clothing,Horizon,49.82,5/4/2022
+133,Nantucket Apple Juice,374.44,289,sports equipment,Avalanche,8.18,10/4/2022
+134,"Lemonade - Kiwi, 591 Ml",768.02,887,electronics,Moonbeam,4.65,12/27/2022
+135,"Chicken - White Meat, No Tender",561.44,35,sports equipment,Luminous,33.7,4/2/2022
+136,"Melon - Watermelon, Seedless",215.66,470,electronics,Moonbeam,43.8,1/8/2022
+137,Wine - Sogrape Mateus Rose,204.72,415,home decor,Moonbeam,47.16,8/1/2022
+138,Quail Eggs - Canned,839.19,957,toys,Thunderbolt,38.23,4/30/2022
+139,Bar Nature Valley,636.46,679,toys,Luminous,20.64,7/7/2022
+140,Appetizer - Mushroom Tart,508.66,435,toys,Sapphire,42.07,5/13/2022
+141,Bok Choy - Baby,5.48,971,home decor,Silverstone,7.0,12/30/2022
+142,Grenadillo,749.21,989,home decor,Polaris,8.99,10/5/2022
+143,Chocolate - Liqueur Cups With Foil,384.49,184,electronics,Cascade,16.26,3/1/2022
+144,Buffalo - Tenderloin,404.34,800,electronics,Thunderbolt,12.18,10/30/2022
+145,Ecolab - Medallion,431.42,390,home decor,Acme,10.99,9/7/2022
+146,"Syrup - Golden, Lyles",815.83,841,sports equipment,Firefly,37.88,11/17/2022
+147,Compound - Pear,424.19,986,electronics,Sapphire,22.84,12/10/2022
+148,Foil Cont Round,634.97,406,home decor,Polaris,29.73,9/3/2022
+149,Lamb Rack Frenched Australian,435.16,884,toys,Cascade,11.14,11/9/2022
+150,Paper Towel Touchless,159.72,32,books,Vortex,8.84,10/7/2022
+151,Lamb Shoulder Boneless Nz,194.79,828,home decor,Eclipse,44.53,4/29/2022
+152,Bread - Pain Au Liat X12,530.02,14,sports equipment,Eclipse,39.43,2/6/2022
+153,Potatoes - Yukon Gold 5 Oz,39.03,305,sports equipment,Polaris,0.33,9/15/2022
+154,Beer - Original Organic Lager,271.48,921,toys,Sunset,2.79,3/17/2022
+155,Water - Green Tea Refresher,744.62,874,electronics,Evergreen,45.85,9/2/2022
+156,Chicken - Livers,930.04,998,sports equipment,Avalanche,24.03,4/23/2022
+157,Longos - Chicken Curried,196.25,958,clothing,Wildfire,1.84,4/11/2022
+158,Energy - Boo - Koo,285.48,254,home decor,Starlight,3.34,6/15/2022
+159,Pork - Bones,432.52,518,toys,Vortex,40.4,6/23/2022
+160,Wine - Toasted Head,195.58,631,home decor,Vortex,26.62,10/29/2022
+161,Cinnamon - Stick,99.11,991,clothing,Acme,40.83,7/3/2022
+162,Fenngreek Seed,129.46,542,electronics,Sapphire,37.6,4/6/2022
+163,"Beef - Cooked, Corned",564.19,753,toys,Moonbeam,37.97,7/2/2022
+164,Grapefruit - Pink,596.6,525,books,Luminous,9.56,1/9/2022
+165,Snapple - Iced Tea Peach,421.65,116,books,Wildfire,27.46,2/8/2022
+166,Glass - Juice Clear 5oz 55005,946.11,494,home decor,Evergreen,16.37,8/6/2022
+167,Dawn Professionl Pot And Pan,953.87,777,sports equipment,Horizon,16.88,9/15/2022
+168,Cookie Dough - Oatmeal Rasin,321.65,172,toys,Firefly,47.32,7/25/2022
+169,Cheese - Cambozola,737.8,918,electronics,Sapphire,34.45,11/2/2022
+170,Beans - Butter Lrg Lima,420.84,809,home decor,Luminous,34.2,6/10/2022
+171,"Beef - Tongue, Fresh",83.8,155,toys,Wildfire,37.59,7/1/2022
+172,Macaroons - Homestyle Two Bit,379.05,784,sports equipment,Whirlwind,26.77,8/10/2022
+173,Yogurt - French Vanilla,496.43,257,toys,Thunderbolt,46.06,11/18/2022
+174,Creme De Menth - White,950.11,38,books,Mystique,42.68,5/1/2022
+175,Sausage - Andouille,428.79,406,electronics,Horizon,27.35,6/13/2022
+176,Appetizer - Mango Chevre,262.84,813,books,Avalanche,16.24,1/2/2022
+177,Sobe - Berry Energy,301.96,360,clothing,Moonbeam,26.07,1/1/2022
+178,Squid Ink,306.74,295,sports equipment,Acme,38.15,7/22/2022
+179,Wine - Dubouef Macon - Villages,934.47,582,clothing,Eclipse,10.48,4/1/2022
+180,Beer - Camerons Auburn,846.72,394,home decor,Sunset,0.64,6/20/2022
+181,Cookie - Oatmeal,740.17,223,toys,Starlight,44.01,1/11/2022
+182,Beef - Texas Style Burger,450.81,479,electronics,Silverstone,32.4,1/27/2022
+183,Pepper - Cubanelle,158.96,186,clothing,Cascade,28.57,1/9/2022
+184,Wine - Savigny - Les - Beaune,983.66,86,electronics,Thunderbolt,2.76,11/19/2022
+185,Walkers Special Old Whiskey,660.3,699,clothing,Vortex,23.56,12/5/2022
+186,Ham - Black Forest,30.8,701,clothing,Silverstone,23.06,5/1/2022
+187,Potatoes - Mini Red,864.82,587,home decor,Acme,14.66,2/2/2022
+188,Cumin - Ground,334.7,944,clothing,Polaris,44.41,8/7/2022
+189,"Pasta - Spaghetti, Dry",678.23,914,clothing,Silverstone,37.59,10/18/2022
+190,Chicken - Tenderloin,558.03,795,toys,Acme,48.52,8/12/2022
+191,Apples - Sliced / Wedge,269.95,551,clothing,Silverstone,40.79,10/18/2022
+192,Longos - Assorted Sandwich,752.29,979,toys,Thunderbolt,19.88,6/17/2022
+193,"Lentils - Green, Dry",241.44,502,books,Cascade,28.99,12/3/2022
+194,Wine - Tribal Sauvignon,281.38,917,home decor,Sapphire,27.0,9/10/2022
+195,Wine - Beaujolais Villages,141.36,603,clothing,Vortex,4.38,6/16/2022
+196,Chocolate - Semi Sweet,514.97,143,sports equipment,Luminous,18.96,6/26/2022
+197,"Nut - Hazelnut, Ground, Natural",33.45,578,sports equipment,Starlight,43.13,7/7/2022
+198,Blue Curacao - Marie Brizard,763.51,69,sports equipment,Cascade,44.06,5/28/2022
+199,Ham - Proscuitto,103.26,156,books,Firefly,7.64,4/13/2022
+200,Bread - Granary Small Pull,954.96,161,sports equipment,Silverstone,33.29,5/13/2022
+201,Muffin Batt - Ban Dream Zero,431.83,629,electronics,Sunset,33.54,9/13/2022
+202,Island Oasis - Pina Colada,944.54,717,electronics,Starlight,31.61,10/26/2022
+203,"Beef - Tenderlion, Center Cut",746.31,527,toys,Starlight,45.43,3/15/2022
+204,Bread Crumbs - Japanese Style,844.48,610,electronics,Evergreen,9.1,12/18/2022
+205,Tuna - Salad Premix,32.94,349,clothing,Horizon,27.19,9/1/2022
+206,Bread - 10 Grain Parisian,993.78,659,toys,Radiant,29.2,5/31/2022
+207,Dr. Pepper - 355ml,958.81,69,electronics,Evergreen,36.47,9/5/2022
+208,"Shrimp, Dried, Small / Lb",221.35,128,clothing,Cascade,22.31,4/9/2022
+209,Dawn Professionl Pot And Pan,432.76,555,sports equipment,Mystique,10.02,3/21/2022
+210,"Sauce - Bernaise, Mix",107.59,77,home decor,Moonbeam,34.02,3/28/2022
+211,Curry Powder Madras,340.55,274,toys,Silverstone,22.1,1/30/2022
+212,Wine - Niagara Peninsula Vqa,620.07,40,sports equipment,Silverstone,31.92,5/28/2022
+213,Foil - Round Foil,124.02,348,electronics,Horizon,32.41,7/29/2022
+214,"Butter - Salted, Micro",89.87,523,home decor,Acme,41.65,11/5/2022
+215,Gatorade - Orange,341.12,793,clothing,Vortex,18.69,9/6/2022
+216,Cheese - Oka,704.75,596,home decor,Evergreen,8.7,7/23/2022
+217,Pie Shell - 9,888.59,82,home decor,Luminous,30.57,5/11/2022
+218,"Beef - Ox Tongue, Pickled",177.98,429,home decor,Evergreen,7.61,3/14/2022
+219,Sugar - Invert,984.03,895,sports equipment,Thunderbolt,40.07,3/3/2022
+220,Ice Cream - Vanilla,214.94,695,toys,Polaris,37.4,12/12/2022
+221,Beans - Yellow,371.67,835,home decor,Cascade,3.8,12/29/2022
+222,Lychee - Canned,863.39,249,electronics,Evergreen,49.58,6/22/2022
+223,"Nut - Cashews, Whole, Raw",524.09,794,electronics,Acme,4.36,6/24/2022
+224,"Stock - Chicken, White",792.19,872,sports equipment,Starlight,0.88,11/23/2022
+225,Muffin - Blueberry Individual,544.41,335,clothing,Cascade,23.77,12/22/2022
+226,Vinegar - Balsamic,179.18,447,home decor,Vortex,21.15,9/4/2022
+227,Cucumber - English,756.49,628,books,Acme,19.33,1/17/2022
+228,Petit Baguette,307.76,513,electronics,Vortex,10.06,7/8/2022
+229,Isomalt,217.03,562,sports equipment,Moonbeam,15.0,11/12/2022
+230,Nantucket Apple Juice,32.36,540,books,Sunset,2.36,11/8/2022
+231,Cardamon Ground,815.11,719,books,Avalanche,30.71,6/27/2022
+232,Smoked Paprika,137.7,742,sports equipment,Evergreen,15.06,2/9/2022
+233,"Juice - Tomato, 48 Oz",743.5,598,books,Sunset,37.36,8/25/2022
+234,Longos - Chicken Wings,783.74,964,toys,Luminous,11.72,4/1/2022
+235,Bagel - Everything,356.06,805,sports equipment,Firefly,43.14,8/2/2022
+236,Beef - Montreal Smoked Brisket,571.37,895,sports equipment,Sunset,40.0,11/17/2022
+237,Savory,392.69,302,home decor,Acme,11.83,5/15/2022
+238,"Oranges - Navel, 72",581.04,604,clothing,Silverstone,18.18,2/6/2022
+239,Tomato Paste,88.02,859,electronics,Sapphire,36.92,1/23/2022
+240,Soup - Campbells Mushroom,444.36,76,sports equipment,Silverstone,37.4,8/4/2022
+241,"Flour - Bran, Red",729.68,692,home decor,Sapphire,20.29,1/22/2022
+242,Turkey - Oven Roast Breast,412.81,705,sports equipment,Avalanche,10.15,8/14/2022
+243,"Bread - Multigrain, Loaf",302.32,753,electronics,Whirlwind,13.5,7/10/2022
+244,Monkfish Fresh - Skin Off,784.3,605,sports equipment,Eclipse,42.14,12/30/2022
+245,Wine - Touraine Azay - Le - Rideau,314.14,888,sports equipment,Sunset,5.26,8/19/2022
+246,Ginsing - Fresh,610.89,29,sports equipment,Radiant,23.11,12/14/2022
+247,Wakami Seaweed,477.67,913,books,Whirlwind,11.31,9/27/2022
+248,Tequila Rose Cream Liquor,919.84,130,home decor,Thunderbolt,9.0,11/14/2022
+249,Flavouring - Raspberry,83.66,861,electronics,Sapphire,32.84,10/24/2022
+250,Soup - Boston Clam Chowder,577.15,136,toys,Vortex,27.02,7/17/2022
+251,Cheese - Swiss,338.76,296,books,Polaris,33.63,9/6/2022
+252,Muffin Chocolate Individual Wrap,380.04,76,books,Vortex,20.9,12/7/2022
+253,Foil Cont Round,26.51,995,electronics,Radiant,5.11,7/2/2022
+254,"Pasta - Fettuccine, Dry",303.08,518,clothing,Horizon,18.73,8/22/2022
+255,Jolt Cola - Red Eye,157.86,527,sports equipment,Vortex,20.39,3/27/2022
+256,Glass - Juice Clear 5oz 55005,711.05,932,sports equipment,Acme,45.07,7/9/2022
+257,Ice Cream - Vanilla,196.82,211,sports equipment,Mystique,49.72,8/26/2022
+258,Wine - Gato Negro Cabernet,154.15,824,electronics,Mystique,15.16,2/9/2022
+259,Coffee Swiss Choc Almond,282.55,113,sports equipment,Whirlwind,25.01,11/12/2022
+260,Food Colouring - Red,46.02,714,clothing,Avalanche,25.54,4/21/2022
+261,Cake - Mini Potato Pancake,94.73,965,clothing,Cascade,8.52,1/2/2022
+262,"Flour - Buckwheat, Dark",189.61,766,toys,Evergreen,42.91,6/26/2022
+263,"Pasta - Cappellini, Dry",297.15,514,toys,Sunset,23.28,12/4/2022
+264,Turnip - Wax,205.91,346,electronics,Sapphire,48.91,8/31/2022
+265,The Pop Shoppe - Cream Soda,319.1,988,electronics,Mystique,25.04,12/1/2022
+266,Bread - Raisin Walnut Pull,415.66,796,electronics,Luminous,25.62,6/18/2022
+267,"Wine - White, Pelee Island",6.19,208,sports equipment,Avalanche,41.8,2/3/2022
+268,Bread - Multigrain Oval,529.59,29,sports equipment,Cascade,29.1,10/10/2022
+269,Crab - Soft Shell,433.53,225,home decor,Acme,38.01,11/29/2022
+270,Eggplant Oriental,694.01,579,clothing,Vortex,40.87,5/26/2022
+271,Pork - Back Ribs,292.54,383,sports equipment,Acme,35.51,2/3/2022
+272,Dragon Fruit,925.72,393,books,Firefly,24.31,3/5/2022
+273,Pork - Belly Fresh,444.97,837,home decor,Silverstone,1.69,5/4/2022
+274,Potatoes - Fingerling 4 Oz,867.41,761,books,Evergreen,29.89,6/10/2022
+275,Lemonade - Pineapple Passion,253.31,639,sports equipment,Silverstone,42.48,6/9/2022
+276,Wanton Wrap,10.21,999,sports equipment,Radiant,8.01,9/2/2022
+277,Cheese - Gorgonzola,197.4,350,sports equipment,Whirlwind,18.64,7/21/2022
+278,Aromat Spice / Seasoning,641.95,402,toys,Evergreen,36.27,5/27/2022
+279,Beer - Blue Light,745.0,615,toys,Silverstone,36.19,3/8/2022
+280,Chinese Foods - Thick Noodles,267.76,500,toys,Mystique,21.34,5/13/2022
+281,Sprite - 355 Ml,408.73,498,sports equipment,Luminous,27.6,12/2/2022
+282,Bread - Flat Bread,984.39,582,electronics,Horizon,10.6,10/26/2022
+283,Gloves - Goldtouch Disposable,191.21,222,home decor,Horizon,12.58,7/23/2022
+284,Plastic Arrow Stir Stick,300.32,84,books,Firefly,16.12,12/15/2022
+285,"Rum - White, Gg White",415.43,118,electronics,Silverstone,41.04,9/16/2022
+286,Grapefruit - Pink,186.98,917,electronics,Sapphire,18.72,2/18/2022
+287,Pastry - Banana Muffin - Mini,20.76,173,books,Starlight,36.35,7/29/2022
+288,Ice Cream Bar - Hageen Daz To,960.52,287,sports equipment,Silverstone,34.7,7/4/2022
+289,Scotch - Queen Anne,490.3,407,electronics,Polaris,14.01,2/16/2022
+290,Bread - Granary Small Pull,430.35,337,books,Vortex,20.36,4/30/2022
+291,"Tart Shells - Sweet, 4",419.56,315,clothing,Wildfire,4.4,4/28/2022
+292,Frangelico,92.02,231,clothing,Cascade,24.1,9/26/2022
+293,Beef - Ox Tongue,583.98,564,books,Mystique,40.42,1/1/2022
+294,"Red Snapper - Fillet, Skin On",298.66,415,toys,Polaris,17.52,2/24/2022
+295,Water Chestnut - Canned,476.7,96,home decor,Starlight,24.72,7/20/2022
+296,Coffee - Cafe Moreno,745.27,226,sports equipment,Avalanche,16.57,8/26/2022
+297,Steam Pan Full Lid,307.43,527,home decor,Evergreen,28.96,11/21/2022
+298,"Nut - Almond, Blanched, Whole",460.74,588,clothing,Eclipse,36.16,9/5/2022
+299,Pie Box - Cello Window 2.5,172.85,895,clothing,Evergreen,9.65,6/23/2022
+300,Longos - Chicken Curried,387.16,843,clothing,Cascade,43.98,5/3/2022
+301,Pork - Hock And Feet Attached,562.18,688,sports equipment,Luminous,48.65,4/8/2022
+302,Oil - Safflower,487.61,386,electronics,Sapphire,21.27,12/19/2022
+303,"Nut - Walnut, Chopped",745.76,204,home decor,Evergreen,7.85,9/21/2022
+304,Raisin - Dark,402.73,713,clothing,Moonbeam,37.68,10/2/2022
+305,Lemonade - Pineapple Passion,640.88,725,clothing,Horizon,40.65,9/4/2022
+306,"Soup - Campbells, Creamy",126.11,658,electronics,Wildfire,16.24,6/14/2022
+307,Island Oasis - Banana Daiquiri,758.05,906,books,Whirlwind,17.27,12/5/2022
+308,Peach - Fresh,179.94,458,home decor,Vortex,1.34,2/12/2022
+309,Sauce - Hoisin,405.75,416,home decor,Whirlwind,14.89,3/12/2022
+310,"Rum - White, Gg White",768.05,403,home decor,Wildfire,21.84,8/20/2022
+311,Veal - Liver,421.89,561,electronics,Radiant,1.87,12/27/2022
+312,Grapefruit - Pink,990.92,341,toys,Avalanche,15.79,5/1/2022
+313,Ginger - Ground,638.02,139,books,Evergreen,32.55,9/30/2022
+314,"Veal - Tenderloin, Untrimmed",623.45,172,sports equipment,Evergreen,39.67,10/26/2022
+315,Mahi Mahi,268.11,458,toys,Whirlwind,19.86,1/15/2022
+316,Broom - Angled,757.08,1000,clothing,Starlight,22.73,3/15/2022
+317,Lemon Balm - Fresh,519.83,446,electronics,Radiant,14.08,3/21/2022
+318,Rambutan,630.76,814,home decor,Horizon,43.3,6/23/2022
+319,Walkers Special Old Whiskey,582.33,668,toys,Silverstone,1.61,10/17/2022
+320,Onions - Vidalia,310.31,874,home decor,Polaris,4.25,7/8/2022
+321,Oil - Cooking Spray,91.6,413,sports equipment,Thunderbolt,1.54,10/19/2022
+322,Truffle Shells - White Chocolate,758.82,972,home decor,Firefly,42.98,9/21/2022
+323,"Pasta - Linguini, Dry",298.26,101,electronics,Horizon,44.41,5/1/2022
+324,Celery Root,81.7,984,books,Radiant,26.66,4/1/2022
+325,"Tart Shells - Sweet, 2",949.14,367,electronics,Acme,21.12,9/27/2022
+326,Bacardi Mojito,704.62,256,sports equipment,Sunset,20.98,12/1/2022
+327,Bread - Rye,941.46,136,clothing,Acme,18.52,5/25/2022
+328,Cookies - Englishbay Wht,929.35,600,toys,Luminous,47.83,2/16/2022
+329,Quail - Jumbo,794.62,932,toys,Moonbeam,34.84,10/11/2022
+330,Basil - Thai,808.44,794,electronics,Horizon,48.25,12/19/2022
+331,Table Cloth 54x72 Colour,100.83,57,home decor,Moonbeam,47.44,3/1/2022
+332,Vaccum Bag - 14x20,535.91,591,sports equipment,Vortex,37.24,6/22/2022
+333,Longos - Penne With Pesto,533.62,308,books,Mystique,12.33,5/22/2022
+334,Bread Base - Toscano,656.93,98,books,Avalanche,33.88,9/9/2022
+335,"Oil - Food, Lacquer Spray",730.41,625,sports equipment,Eclipse,7.88,7/3/2022
+336,Coffee - Irish Cream,97.41,850,home decor,Thunderbolt,48.26,6/17/2022
+337,Grapefruit - White,943.12,225,toys,Starlight,28.52,3/25/2022
+338,Sauce - Balsamic Viniagrette,689.56,276,home decor,Wildfire,26.24,9/29/2022
+339,"Asparagus - White, Fresh",400.56,739,home decor,Firefly,45.24,7/27/2022
+340,Coffee - Dark Roast,771.82,882,sports equipment,Moonbeam,16.59,7/31/2022
+341,Petit Baguette,327.76,987,electronics,Starlight,7.63,5/9/2022
+342,Pepper - Gypsy Pepper,194.63,177,clothing,Sapphire,44.55,8/31/2022
+343,"Pepper - Paprika, Hungarian",120.24,329,books,Evergreen,12.52,3/23/2022
+344,"Pork - Back, Short Cut, Boneless",995.63,915,home decor,Horizon,21.68,4/28/2022
+345,Eggplant Italian,152.56,876,electronics,Starlight,33.53,9/8/2022
+346,Coffee - Almond Amaretto,715.06,310,clothing,Firefly,0.56,7/8/2022
+347,Beef - Sushi Flat Iron Steak,778.55,194,electronics,Sunset,48.27,8/2/2022
+348,Soup Campbells Split Pea And Ham,175.84,300,electronics,Horizon,2.58,2/25/2022
+349,Hot Chocolate - Individual,777.49,305,books,Sapphire,34.33,11/23/2022
+350,Squid - Tubes / Tenticles 10/20,169.02,117,home decor,Sapphire,40.04,10/24/2022
+351,"Wine - White, Concha Y Toro",867.68,123,home decor,Cascade,47.14,5/15/2022
+352,"Crab - Back Fin Meat, Canned",779.2,603,toys,Mystique,29.98,7/15/2022
+353,Hand Towel,24.34,685,toys,Avalanche,43.33,6/12/2022
+354,Halibut - Fletches,996.38,277,sports equipment,Moonbeam,39.28,5/24/2022
+355,Bread - French Stick,585.47,536,home decor,Whirlwind,44.17,4/26/2022
+356,"Chicken - Wings, Tip Off",560.94,961,home decor,Thunderbolt,34.42,12/10/2022
+357,Avocado,755.32,405,books,Avalanche,37.92,11/8/2022
+358,Ecolab - Lime - A - Way 4/4 L,997.21,582,books,Luminous,20.59,2/14/2022
+359,Appetizer - Mango Chevre,11.6,805,sports equipment,Vortex,34.9,6/6/2022
+360,"Cod - Salted, Boneless",64.73,852,home decor,Moonbeam,47.66,7/6/2022
+361,Bag - Regular Kraft 20 Lb,164.96,211,clothing,Moonbeam,23.06,7/2/2022
+362,Flour - Strong Pizza,58.37,597,home decor,Evergreen,48.79,6/4/2022
+363,Eggroll,959.85,325,electronics,Avalanche,49.33,6/17/2022
+364,"Pork - Back, Short Cut, Boneless",220.84,824,electronics,Avalanche,44.88,1/8/2022
+365,Butter Balls Salted,935.46,504,sports equipment,Moonbeam,33.26,9/16/2022
+366,Sauce - Hollandaise,583.26,206,books,Luminous,25.51,2/25/2022
+367,"Capon - Breast, Wing On",538.25,318,electronics,Cascade,25.23,6/29/2022
+368,Flavouring Vanilla Artificial,724.54,104,clothing,Wildfire,19.96,6/26/2022
+369,"Turkey - Breast, Bone - In",833.29,332,books,Starlight,33.57,6/7/2022
+370,Cookies Almond Hazelnut,546.12,712,clothing,Starlight,4.67,3/5/2022
+371,Beans - French,29.9,973,clothing,Moonbeam,20.9,5/25/2022
+372,Bandage - Finger Cots,738.74,482,clothing,Vortex,13.04,11/14/2022
+373,V8 Splash Strawberry Kiwi,762.64,131,clothing,Cascade,23.65,8/26/2022
+374,Pur Source,799.66,494,books,Wildfire,41.97,8/26/2022
+375,Chocolate Eclairs,227.16,723,toys,Moonbeam,10.87,6/22/2022
+376,Pear - Prickly,478.54,669,sports equipment,Wildfire,9.75,10/8/2022
+377,Cheese - Oka,879.95,650,electronics,Wildfire,38.7,9/24/2022
+378,Hog / Sausage Casing - Pork,430.46,175,sports equipment,Acme,45.67,3/4/2022
+379,Juice - Lemon,787.81,601,clothing,Moonbeam,19.19,10/26/2022
+380,Bread - Pita,275.15,415,books,Avalanche,38.91,2/15/2022
+381,Cheese - Brick With Pepper,309.46,637,home decor,Silverstone,1.12,4/12/2022
+382,"Sauce - Soya, Dark",28.9,133,clothing,Whirlwind,43.15,1/27/2022
+383,Chicken Breast Wing On,127.18,380,books,Sunset,34.94,2/14/2022
+384,Celery,933.32,161,sports equipment,Starlight,36.86,2/16/2022
+385,"Crush - Orange, 355ml",981.63,424,sports equipment,Starlight,14.8,8/27/2022
+386,"Pasta - Fett Alfredo, Single Serve",785.86,38,electronics,Sapphire,37.04,12/8/2022
+387,Coffee - Frthy Coffee Crisp,66.21,996,clothing,Silverstone,34.42,5/24/2022
+388,"Marsala - Sperone, Fine, D.o.c.",605.88,487,books,Acme,4.62,3/26/2022
+389,"Bread - Pumpernickle, Rounds",734.8,578,toys,Silverstone,48.06,12/22/2022
+390,Kellogs All Bran Bars,20.46,48,books,Mystique,16.62,3/14/2022
+391,Wine - Gewurztraminer Pierre,849.48,380,electronics,Luminous,35.19,6/21/2022
+392,"Doilies - 7, Paper",673.23,916,toys,Acme,3.34,6/2/2022
+393,Rum - Mount Gay Eclipes,598.48,350,clothing,Avalanche,49.63,1/10/2022
+394,"Orange - Canned, Mandarin",581.04,14,home decor,Mystique,27.25,3/1/2022
+395,Chips - Potato Jalapeno,206.81,589,clothing,Thunderbolt,22.39,1/21/2022
+396,Wine - Merlot Vina Carmen,177.15,356,home decor,Vortex,29.9,9/9/2022
+397,Sauce - Salsa,328.97,701,sports equipment,Sunset,4.74,6/28/2022
+398,Olive - Spread Tapenade,239.53,998,clothing,Horizon,30.08,8/17/2022
+399,Sproutsmustard Cress,78.16,50,sports equipment,Moonbeam,16.07,4/18/2022
+400,Wakami Seaweed,262.44,957,electronics,Polaris,4.27,3/12/2022
+401,Chocolate - Milk,768.4,751,sports equipment,Sapphire,3.2,12/4/2022
+402,Bacardi Limon,720.32,474,clothing,Polaris,48.18,7/11/2022
+403,Creme De Menthe Green,325.98,162,books,Starlight,44.29,5/15/2022
+404,Tilapia - Fillets,972.89,606,home decor,Thunderbolt,16.17,3/28/2022
+405,Cleaner - Lime Away,610.06,203,home decor,Sapphire,19.6,8/23/2022
+406,Pur Source,256.61,559,clothing,Radiant,39.96,3/18/2022
+407,Sausage - Andouille,629.14,86,home decor,Starlight,26.94,4/10/2022
+408,Muffin Orange Individual,853.04,752,clothing,Vortex,35.47,7/1/2022
+409,Crab - Meat Combo,593.67,724,clothing,Whirlwind,21.57,3/5/2022
+410,Cheese - Provolone,795.58,457,home decor,Vortex,6.79,2/8/2022
+411,Table Cloth 54x54 Colour,54.58,810,toys,Starlight,25.94,7/5/2022
+412,Easy Off Oven Cleaner,949.73,497,toys,Evergreen,28.78,6/2/2022
+413,Cranberries - Frozen,874.63,662,toys,Avalanche,37.51,5/29/2022
+414,Ketchup - Tomato,70.69,472,clothing,Mystique,40.39,3/10/2022
+415,Cookie Dough - Double,758.11,580,home decor,Horizon,6.75,5/26/2022
+416,Ice Cream - Fudge Bars,141.96,922,sports equipment,Evergreen,32.72,1/8/2022
+417,Longos - Grilled Salmon With Bbq,858.34,633,toys,Sunset,14.16,9/19/2022
+418,Dried Cherries,474.24,543,home decor,Evergreen,29.63,9/9/2022
+419,"Ecolab - Orange Frc, Cleaner",632.52,63,clothing,Silverstone,16.24,10/6/2022
+420,Pie Shell - 9,144.85,960,home decor,Sunset,6.85,11/7/2022
+421,"Marsala - Sperone, Fine, D.o.c.",762.3,734,sports equipment,Thunderbolt,31.53,7/8/2022
+422,Fond - Chocolate,373.42,717,clothing,Avalanche,14.56,10/8/2022
+423,Scallop - St. Jaques,578.72,126,sports equipment,Moonbeam,48.43,11/19/2022
+424,Sauce - Ranch Dressing,204.89,304,toys,Cascade,35.23,2/20/2022
+425,Onions - Green,707.41,19,sports equipment,Polaris,24.08,4/11/2022
+426,Hagen Daza - Dk Choocolate,652.93,128,clothing,Sunset,20.16,5/14/2022
+427,Apples - Spartan,94.87,75,clothing,Starlight,24.3,1/20/2022
+428,"Beans - Long, Chinese",728.58,197,sports equipment,Vortex,48.75,4/1/2022
+429,Dried Apple,541.82,559,sports equipment,Cascade,35.78,1/5/2022
+430,Onions - White,656.54,905,electronics,Luminous,27.23,11/11/2022
+431,Quinoa,107.77,554,sports equipment,Mystique,26.79,11/3/2022
+432,Food Colouring - Pink,156.8,214,sports equipment,Horizon,14.33,7/12/2022
+433,"Juice - Grapefruit, 341 Ml",62.49,58,electronics,Eclipse,43.87,11/26/2022
+434,"Butter - Salted, Micro",698.05,980,electronics,Luminous,44.05,8/24/2022
+435,Chicken - Base,635.0,44,home decor,Mystique,8.84,7/5/2022
+436,Canada Dry,508.71,238,electronics,Vortex,0.33,7/22/2022
+437,Mini - Vol Au Vents,890.93,339,home decor,Mystique,42.91,6/19/2022
+438,Garbage Bags - Clear,259.15,692,toys,Moonbeam,25.97,6/4/2022
+439,Stainless Steel Cleaner Vision,286.86,486,clothing,Wildfire,44.68,6/12/2022
+440,"Halibut - Whole, Fresh",822.9,761,electronics,Vortex,35.05,2/23/2022
+441,Tia Maria,96.54,422,toys,Mystique,35.38,10/23/2022
+442,Triple Sec - Mcguinness,909.06,859,clothing,Vortex,23.77,1/29/2022
+443,Beer - Labatt Blue,136.38,202,toys,Mystique,33.35,3/13/2022
+444,Wine - Sawmill Creek Autumn,930.36,842,sports equipment,Luminous,43.99,6/22/2022
+445,Appetizer - Sausage Rolls,61.97,253,books,Silverstone,33.18,6/4/2022
+446,"Quail - Whole, Boneless",754.85,101,electronics,Sunset,36.44,11/13/2022
+447,Juice - Cranberry 284ml,406.94,552,home decor,Firefly,46.4,6/7/2022
+448,Kaffir Lime Leaves,835.05,824,books,Vortex,12.03,1/27/2022
+449,Carbonated Water - Peach,300.85,667,home decor,Acme,4.14,5/27/2022
+450,Duck - Fat,677.15,553,sports equipment,Vortex,6.91,3/7/2022
+451,"Nut - Peanut, Roasted",486.98,311,home decor,Acme,4.37,12/11/2022
+452,Ecolab Crystal Fusion,20.72,874,electronics,Wildfire,24.13,8/16/2022
+453,"Coconut - Shredded, Sweet",367.99,450,electronics,Horizon,35.43,8/6/2022
+454,Amarula Cream,736.46,506,toys,Sunset,48.01,4/29/2022
+455,Beer - Pilsner Urquell,35.63,349,electronics,Cascade,30.49,1/1/2022
+456,Chevril,670.52,225,sports equipment,Eclipse,24.64,8/14/2022
+457,Pork - Kidney,402.12,515,clothing,Sunset,18.2,3/16/2022
+458,Veal - Slab Bacon,43.16,414,sports equipment,Whirlwind,34.85,7/21/2022
+459,Wine - Montecillo Rioja Crianza,886.04,390,clothing,Thunderbolt,44.26,12/25/2022
+460,Waffle Stix,77.06,219,home decor,Radiant,13.81,2/25/2022
+461,Sauce - Chili,648.62,866,home decor,Polaris,20.67,10/28/2022
+462,"Lid - 10,12,16 Oz",656.46,659,clothing,Acme,49.56,7/16/2022
+463,Chutney Sauce,891.36,326,electronics,Firefly,3.53,7/28/2022
+464,Sprouts - Alfalfa,655.46,553,sports equipment,Whirlwind,9.23,6/5/2022
+465,Longos - Chicken Caeser Salad,664.89,179,home decor,Avalanche,34.7,5/8/2022
+466,Bacon Strip Precooked,291.29,516,books,Vortex,42.05,7/19/2022
+467,Pur Source,995.23,429,sports equipment,Eclipse,44.44,8/15/2022
+468,Crab - Meat Combo,762.6,220,clothing,Wildfire,12.39,11/30/2022
+469,Soup - Tomato Mush. Florentine,938.15,142,clothing,Eclipse,20.83,8/28/2022
+470,Sausage - Chorizo,789.18,824,clothing,Vortex,9.5,12/4/2022
+471,Onions - Pearl,908.93,164,home decor,Starlight,15.29,6/21/2022
+472,Banana - Green,244.03,254,sports equipment,Horizon,33.23,2/8/2022
+473,Onion Powder,633.51,468,sports equipment,Silverstone,18.88,10/18/2022
+474,Yoplait Drink,640.02,652,home decor,Moonbeam,2.73,2/1/2022
+475,Cake - Sheet Strawberry,233.48,877,sports equipment,Vortex,21.51,4/16/2022
+476,Dooleys Toffee,247.18,974,electronics,Mystique,42.67,4/22/2022
+477,Pepper - Yellow Bell,860.57,296,books,Polaris,36.59,12/30/2022
+478,Savory,428.55,360,home decor,Whirlwind,32.16,9/2/2022
+479,Contreau,689.95,551,electronics,Thunderbolt,46.08,10/29/2022
+480,Ginger - Fresh,267.5,200,toys,Thunderbolt,13.22,1/31/2022
+481,Cucumber - Pickling Ontario,182.65,676,sports equipment,Sapphire,1.74,8/6/2022
+482,Longos - Grilled Veg Sandwiches,171.94,653,clothing,Luminous,43.46,1/2/2022
+483,"Chocolate - Pistoles, White",79.94,961,sports equipment,Avalanche,9.51,3/3/2022
+484,Wine - Jackson Triggs Okonagan,38.77,970,toys,Silverstone,46.6,9/24/2022
+485,Cumin - Ground,448.61,354,home decor,Starlight,24.88,11/25/2022
+486,Longos - Grilled Veg Sandwiches,881.22,564,toys,Whirlwind,10.23,11/22/2022
+487,Cheese - Oka,371.08,859,sports equipment,Cascade,18.34,6/1/2022
+488,Southern Comfort,912.58,932,toys,Firefly,17.05,9/25/2022
+489,Truffle Cups - White Paper,855.55,916,electronics,Silverstone,42.57,2/7/2022
+490,"Bread - Sticks, Thin, Plain",786.05,415,home decor,Horizon,46.32,9/23/2022
+491,Isomalt,421.64,233,home decor,Wildfire,19.66,11/28/2022
+492,"Beans - Navy, Dry",198.11,945,electronics,Cascade,49.05,10/30/2022
+493,Soup Campbells,386.8,427,sports equipment,Whirlwind,38.93,11/17/2022
+494,"Pork - Butt, Boneless",521.36,827,toys,Firefly,14.49,9/28/2022
+495,Pork Loin Cutlets,364.02,95,books,Polaris,28.4,5/17/2022
+496,Beer - True North Lager,22.16,942,clothing,Avalanche,0.77,12/23/2022
+497,Tea - Apple Green Tea,634.27,90,clothing,Sapphire,8.35,7/12/2022
+498,Pea - Snow,220.21,357,clothing,Polaris,37.94,11/10/2022
+499,Beets - Golden,938.68,710,toys,Polaris,2.72,3/2/2022
+500,Duck - Breast,499.89,25,home decor,Starlight,22.58,10/29/2022
+501,Pate - Cognac,494.14,417,home decor,Wildfire,9.99,2/15/2022
+502,Shrimp - Black Tiger 13/15,202.64,813,books,Firefly,2.88,12/16/2022
+503,Apples - Spartan,957.91,291,home decor,Wildfire,15.08,6/8/2022
+504,Nantucket - Orange Mango Cktl,211.57,592,sports equipment,Cascade,30.34,1/20/2022
+505,Pails With Lids,661.72,126,sports equipment,Moonbeam,9.83,1/28/2022
+506,"Gin - Gilbeys London, Dry",798.85,438,books,Firefly,4.9,1/13/2022
+507,Bread - Olive Dinner Roll,777.62,425,home decor,Thunderbolt,17.62,4/8/2022
+508,Flavouring Vanilla Artificial,478.05,824,books,Wildfire,44.33,3/24/2022
+509,"Wine - White, French Cross",175.23,175,electronics,Evergreen,13.29,10/10/2022
+510,Honey - Lavender,102.93,146,sports equipment,Luminous,46.04,3/11/2022
+511,Beer - Sleeman Fine Porter,147.85,662,books,Moonbeam,19.95,12/30/2022
+512,Beef - Inside Round,860.18,504,sports equipment,Moonbeam,48.49,1/19/2022
+513,Gelatine Leaves - Bulk,596.75,470,toys,Silverstone,20.59,11/29/2022
+514,Beef - Bresaola,488.18,713,sports equipment,Thunderbolt,28.49,11/15/2022
+515,Lettuce - Iceberg,798.2,663,books,Silverstone,7.64,2/1/2022
+516,Bread - Corn Muffaletta,666.07,831,toys,Horizon,33.77,11/6/2022
+517,Whmis Spray Bottle Graduated,554.5,492,sports equipment,Mystique,47.63,11/27/2022
+518,Wine - Blue Nun Qualitatswein,884.87,345,clothing,Firefly,7.13,4/22/2022
+519,Oven Mitt - 13 Inch,754.44,905,clothing,Sunset,33.99,12/25/2022
+520,"Appetizer - Mini Egg Roll, Shrimp",462.28,72,home decor,Sunset,13.49,11/29/2022
+521,Kellogs Special K Cereal,355.98,152,home decor,Acme,13.25,9/29/2022
+522,Truffle - Peelings,59.13,759,home decor,Avalanche,13.3,9/21/2022
+523,Beer - Upper Canada Light,722.46,323,home decor,Evergreen,16.67,8/31/2022
+524,Soap - Mr.clean Floor Soap,179.53,702,toys,Wildfire,10.07,9/18/2022
+525,Tomatoes Tear Drop Yellow,326.08,80,clothing,Mystique,13.8,12/1/2022
+526,Tomatoes - Cherry,451.95,246,home decor,Cascade,9.51,5/29/2022
+527,Oil - Olive Bertolli,470.52,541,home decor,Thunderbolt,38.22,7/14/2022
+528,"Bread - Bagels, Mini",10.8,831,books,Luminous,39.38,8/9/2022
+529,"Beans - Kidney, Canned",215.89,268,toys,Radiant,7.79,2/15/2022
+530,"Jam - Blackberry, 20 Ml Jar",368.17,992,clothing,Thunderbolt,15.67,12/22/2022
+531,"Sauce - Bernaise, Mix",453.21,339,sports equipment,Whirlwind,23.49,3/26/2022
+532,Lettuce - Red Leaf,977.16,599,electronics,Sunset,7.1,7/19/2022
+533,Sea Bass - Whole,857.51,972,books,Acme,20.23,10/3/2022
+534,Chocolate - Milk Coating,539.92,816,books,Eclipse,43.89,5/12/2022
+535,Bandage - Fexible 1x3,125.58,65,toys,Sapphire,42.54,8/9/2022
+536,"Leeks - Baby, White",707.9,553,clothing,Vortex,0.72,9/15/2022
+537,"Potatoes - Yukon Gold, 80 Ct",435.88,180,sports equipment,Sapphire,16.39,8/27/2022
+538,Squash - Butternut,67.77,325,sports equipment,Starlight,20.98,12/20/2022
+539,"Tortillas - Flour, 10",26.66,187,home decor,Thunderbolt,7.74,5/10/2022
+540,Beer - Blue,207.75,260,electronics,Vortex,40.67,9/13/2022
+541,Syrup - Chocolate,333.8,758,toys,Horizon,33.48,6/18/2022
+542,"Water, Tap",467.62,270,clothing,Wildfire,46.87,6/16/2022
+543,Hummus - Spread,34.81,735,sports equipment,Horizon,31.77,10/8/2022
+544,"Doilies - 12, Paper",867.45,249,toys,Wildfire,32.73,8/20/2022
+545,Okra,774.68,188,sports equipment,Eclipse,0.29,4/24/2022
+546,Pork - Liver,300.0,956,toys,Wildfire,14.25,1/16/2022
+547,Lid - 16 Oz And 32 Oz,435.91,742,home decor,Whirlwind,16.17,8/2/2022
+548,Table Cloth 54x54 Colour,502.08,258,toys,Cascade,34.0,2/26/2022
+549,Tilapia - Fillets,665.09,339,toys,Firefly,33.97,1/6/2022
+550,Bagel - Plain,536.25,536,electronics,Eclipse,2.1,7/6/2022
+551,Instant Coffee,911.16,292,toys,Luminous,21.24,11/25/2022
+552,Red Currant Jelly,603.29,844,books,Starlight,4.77,7/1/2022
+553,"Chicken - Base, Ultimate",112.91,150,toys,Horizon,23.18,8/26/2022
+554,White Fish - Filets,364.64,377,electronics,Avalanche,16.45,10/1/2022
+555,"Cheese - Boursin, Garlic / Herbs",860.89,232,home decor,Cascade,2.38,4/8/2022
+556,"Cheese - Woolwich Goat, Log",166.14,116,books,Silverstone,5.01,9/28/2022
+557,Table Cloth 62x114 White,3.64,449,clothing,Silverstone,6.41,1/20/2022
+558,Sherbet - Raspberry,599.45,526,home decor,Starlight,25.27,3/6/2022
+559,Cheese - Roquefort Pappillon,698.4,887,home decor,Avalanche,9.35,6/25/2022
+560,V8 - Tropical Blend,146.12,176,toys,Eclipse,49.62,6/25/2022
+561,Liners - Baking Cups,856.89,257,clothing,Moonbeam,0.44,2/15/2022
+562,Kohlrabi,360.12,284,electronics,Silverstone,15.13,12/17/2022
+563,"Tart Shells - Savory, 2",46.06,910,sports equipment,Firefly,13.43,8/10/2022
+564,Pork - Shoulder,980.13,590,sports equipment,Firefly,22.79,3/16/2022
+565,Lamb Rack - Ontario,841.22,157,clothing,Moonbeam,26.62,6/1/2022
+566,"Oregano - Dry, Rubbed",214.44,421,electronics,Vortex,12.46,3/3/2022
+567,Potatoes - Idaho 100 Count,254.88,195,home decor,Avalanche,14.19,12/9/2022
+568,Milk 2% 500 Ml,725.47,685,electronics,Thunderbolt,16.99,4/7/2022
+569,Container - Hngd Cll Blk 7x7x3,834.05,92,home decor,Firefly,26.49,11/11/2022
+570,Pork - Inside,703.24,689,electronics,Eclipse,7.39,9/23/2022
+571,Marzipan 50/50,943.96,921,sports equipment,Vortex,36.16,12/9/2022
+572,Wooden Mop Handle,449.26,243,books,Vortex,35.85,5/24/2022
+573,"Juice - Orange, Concentrate",135.41,669,books,Horizon,48.88,10/30/2022
+574,Extract - Lemon,147.73,504,clothing,Firefly,32.21,5/28/2022
+575,Chocolate Bar - Smarties,55.94,444,books,Acme,13.43,5/5/2022
+576,Orange Roughy 4/6 Oz,783.11,249,sports equipment,Sapphire,11.71,11/14/2022
+577,Dr. Pepper - 355ml,327.2,567,electronics,Luminous,36.69,3/4/2022
+578,"Crab - Dungeness, Whole",220.09,615,clothing,Eclipse,18.0,8/6/2022
+579,Eggwhite Frozen,384.52,757,clothing,Acme,35.29,8/29/2022
+580,"Wine - Magnotta, Merlot Sr Vqa",497.8,201,clothing,Cascade,19.66,12/17/2022
+581,"Wine - Magnotta, Merlot Sr Vqa",844.41,722,clothing,Cascade,3.22,10/14/2022
+582,Ham - Virginia,848.0,437,electronics,Sunset,4.48,4/2/2022
+583,Pork - Inside,234.09,781,clothing,Mystique,3.07,1/3/2022
+584,Truffle Shells - Semi - Sweet,45.35,614,sports equipment,Moonbeam,30.47,6/8/2022
+585,Crackers - Trio,98.95,76,home decor,Radiant,10.09,9/30/2022
+586,"Tray - Foam, Square 4 - S",682.41,417,toys,Acme,40.96,7/25/2022
+587,Crackers - Trio,710.61,287,home decor,Evergreen,1.16,5/10/2022
+588,Capers - Ox Eye Daisy,61.87,406,toys,Luminous,35.02,7/24/2022
+589,Chicken Breast Wing On,628.32,450,toys,Vortex,7.53,4/14/2022
+590,"Chocolate - Pistoles, Lactee, Milk",410.69,406,books,Starlight,22.15,10/2/2022
+591,Contreau,325.31,948,books,Vortex,21.87,10/18/2022
+592,Lychee,35.08,180,toys,Firefly,7.21,1/3/2022
+593,Everfresh Products,556.42,659,home decor,Eclipse,47.3,6/5/2022
+594,Muffin - Bran Ind Wrpd,494.79,16,clothing,Mystique,13.09,10/22/2022
+595,Rice - Jasmine Sented,971.85,93,home decor,Whirlwind,24.97,4/19/2022
+596,Soup Campbells - Tomato Bisque,985.33,16,clothing,Avalanche,3.47,7/16/2022
+597,Vinegar - Rice,239.29,792,home decor,Horizon,26.22,3/28/2022
+598,"Trout - Hot Smkd, Dbl Fillet",330.91,700,sports equipment,Firefly,33.92,4/20/2022
+599,Clam - Cherrystone,28.44,580,toys,Moonbeam,0.29,10/8/2022
+600,Gatorade - Lemon Lime,498.83,130,electronics,Eclipse,31.4,10/27/2022
+601,Pastry - Baked Scones - Mini,684.79,970,books,Horizon,39.71,3/16/2022
+602,Soup Campbells - Italian Wedding,19.25,393,books,Eclipse,32.64,10/25/2022
+603,Water - San Pellegrino,406.19,143,books,Thunderbolt,42.48,3/14/2022
+604,Beef - Tenderloin Tails,284.85,145,clothing,Luminous,34.24,11/7/2022
+605,Bread - Mini Hamburger Bun,867.46,51,home decor,Silverstone,12.53,4/21/2022
+606,"Salmon - Whole, 4 - 6 Pounds",270.37,742,toys,Avalanche,36.61,5/9/2022
+607,Sprouts - Corn,26.13,569,home decor,Evergreen,5.69,7/23/2022
+608,Cheese - Wine,578.95,236,electronics,Wildfire,13.86,10/25/2022
+609,Oil - Peanut,376.39,880,clothing,Cascade,11.4,3/16/2022
+610,Lid - 3oz Med Rec,47.87,735,home decor,Silverstone,49.91,12/25/2022
+611,Lentils - Green Le Puy,136.18,798,sports equipment,Luminous,7.77,10/20/2022
+612,Instant Coffee,163.45,107,home decor,Radiant,42.18,12/6/2022
+613,Creme De Cacao Mcguines,212.1,358,sports equipment,Firefly,1.39,3/15/2022
+614,Oil - Avocado,92.85,346,home decor,Moonbeam,49.67,1/17/2022
+615,Soup - Campbells Chili Veg,536.62,570,toys,Polaris,45.68,6/28/2022
+616,Tray - 16in Rnd Blk,614.16,48,books,Moonbeam,37.29,6/15/2022
+617,"Chestnuts - Whole,canned",691.56,538,electronics,Sunset,33.07,1/13/2022
+618,Banana Turning,727.52,857,clothing,Silverstone,45.49,9/28/2022
+619,Orange - Tangerine,22.34,988,clothing,Sunset,40.31,1/27/2022
+620,Longos - Grilled Chicken With,487.71,955,sports equipment,Wildfire,4.02,8/20/2022
+621,"Syrup - Monin, Irish Cream",730.85,209,clothing,Wildfire,18.16,5/18/2022
+622,Ecolab - Mikroklene 4/4 L,130.83,980,books,Luminous,32.19,10/25/2022
+623,"Beef - Chuck, Boneless",707.75,702,clothing,Sapphire,3.57,2/4/2022
+624,Yoplait Drink,269.4,761,toys,Moonbeam,46.6,12/6/2022
+625,"Wine - Red, Pinot Noir, Chateau",960.13,961,toys,Wildfire,5.84,4/28/2022
+626,Initation Crab Meat,156.42,205,home decor,Starlight,35.62,10/26/2022
+627,Clam Nectar,582.43,730,clothing,Cascade,33.81,1/11/2022
+628,Kohlrabi,692.79,844,clothing,Silverstone,30.58,9/1/2022
+629,Hand Towel,228.61,879,sports equipment,Radiant,3.24,10/18/2022
+630,Sprouts - Corn,712.01,474,home decor,Luminous,12.95,10/17/2022
+631,Apples - Spartan,171.99,809,sports equipment,Whirlwind,13.05,6/12/2022
+632,Sponge Cake Mix - Vanilla,549.33,486,electronics,Avalanche,0.77,10/2/2022
+633,"Veal - Chops, Split, Frenched",494.37,996,clothing,Acme,40.75,4/17/2022
+634,Swiss Chard - Red,359.59,147,toys,Firefly,21.91,4/11/2022
+635,Sweet Pea Sprouts,534.44,777,clothing,Whirlwind,46.09,11/1/2022
+636,"Wine - Red, Cabernet Merlot",347.87,367,toys,Whirlwind,26.11,2/11/2022
+637,Puree - Pear,611.95,422,toys,Firefly,18.48,12/22/2022
+638,Chinese Foods - Plain Fried Rice,574.89,851,books,Silverstone,36.2,6/4/2022
+639,Sauce - Demi Glace,708.99,334,home decor,Thunderbolt,5.28,11/27/2022
+640,Butter Ripple - Phillips,182.77,777,electronics,Silverstone,22.39,12/11/2022
+641,Five Alive Citrus,993.17,831,books,Avalanche,17.63,5/1/2022
+642,Bar Mix - Lime,888.89,310,books,Cascade,27.25,1/30/2022
+643,Wine - Blue Nun Qualitatswein,218.93,390,books,Moonbeam,31.47,6/23/2022
+644,Puree - Passion Fruit,654.28,422,electronics,Luminous,13.29,1/12/2022
+645,Pickle - Dill,297.31,861,clothing,Wildfire,36.72,7/6/2022
+646,"Iced Tea - Lemon, 340ml",734.24,526,electronics,Mystique,13.58,3/22/2022
+647,Bread - 10 Grain Parisian,632.4,603,clothing,Silverstone,20.61,1/6/2022
+648,Raisin - Golden,917.39,662,sports equipment,Whirlwind,48.68,5/2/2022
+649,Papadam,245.24,508,books,Evergreen,31.68,9/11/2022
+650,Sobe - Liz Blizz,198.21,273,clothing,Acme,19.3,10/5/2022
+651,Cookie - Dough Variety,409.48,807,sports equipment,Avalanche,16.43,1/27/2022
+652,"Beans - Kidney, Red Dry",342.49,605,books,Sunset,7.14,12/20/2022
+653,Pate - Liver,529.27,242,toys,Polaris,31.43,1/21/2022
+654,Pork - Caul Fat,370.48,473,home decor,Moonbeam,14.22,12/25/2022
+655,"Ecolab - Orange Frc, Cleaner",851.15,263,home decor,Luminous,37.61,6/18/2022
+656,Chip - Potato Dill Pickle,678.42,729,sports equipment,Radiant,6.52,7/25/2022
+657,Pickerel - Fillets,594.14,709,sports equipment,Vortex,10.39,2/16/2022
+658,"Cheese - Cheddar, Medium",132.97,221,sports equipment,Cascade,20.52,5/27/2022
+659,Pastry - Key Limepoppy Seed Tea,649.71,806,toys,Moonbeam,4.95,3/15/2022
+660,Cheese - Perron Cheddar,80.91,673,clothing,Starlight,10.06,7/1/2022
+661,Mushrooms - Honey,391.04,312,electronics,Luminous,48.27,2/18/2022
+662,"Pepper - Red, Finger Hot",75.97,437,toys,Eclipse,46.39,3/29/2022
+663,Bar Nature Valley,416.96,973,toys,Polaris,32.67,4/13/2022
+664,Pork - Hock And Feet Attached,569.67,229,electronics,Moonbeam,21.37,1/11/2022
+665,Garbage Bags - Clear,842.48,7,toys,Eclipse,17.02,10/5/2022
+666,Cheese - Cambozola,684.58,375,home decor,Starlight,24.88,1/29/2022
+667,Russian Prince,682.87,926,books,Starlight,39.55,5/6/2022
+668,Cake - French Pear Tart,582.51,924,sports equipment,Whirlwind,20.44,2/10/2022
+669,Pernod,10.33,948,electronics,Vortex,3.49,3/13/2022
+670,Beans - French,267.44,176,sports equipment,Wildfire,43.83,9/30/2022
+671,"Wine - Cahors Ac 2000, Clos",703.0,995,books,Mystique,5.29,10/30/2022
+672,Tea - Herbal I Love Lemon,520.5,444,clothing,Cascade,18.94,2/10/2022
+673,Rootbeer,358.1,305,toys,Starlight,45.04,4/3/2022
+674,Squash - Pepper,399.96,452,sports equipment,Silverstone,33.84,2/10/2022
+675,Pepper - Roasted Red,85.21,956,toys,Whirlwind,16.55,6/17/2022
+676,Seaweed Green Sheets,686.42,971,toys,Vortex,38.24,11/2/2022
+677,Sponge Cake Mix - Chocolate,344.74,619,sports equipment,Whirlwind,30.68,3/19/2022
+678,Cheese Cloth No 60,51.12,240,toys,Acme,29.45,12/29/2022
+679,Cranberries - Fresh,715.54,569,home decor,Wildfire,34.79,6/26/2022
+680,"Beef - Rib Roast, Cap On",906.5,19,books,Wildfire,40.29,4/12/2022
+681,"Beef - Tongue, Cooked",136.24,403,toys,Thunderbolt,48.67,9/19/2022
+682,Trueblue - Blueberry 12x473ml,797.41,833,toys,Mystique,21.95,9/3/2022
+683,"Bread - White, Sliced",251.69,773,books,Horizon,7.94,8/7/2022
+684,Sugar - Brown,780.13,674,sports equipment,Polaris,43.7,8/29/2022
+685,Flour - Teff,287.78,863,clothing,Moonbeam,27.31,6/19/2022
+686,Lighter - Bbq,152.61,684,home decor,Thunderbolt,2.74,3/3/2022
+687,True - Vue Containers,432.47,536,books,Sapphire,14.19,1/13/2022
+688,"Turnip - White, Organic",471.45,662,electronics,Vortex,23.42,2/10/2022
+689,Beef - Tenderloin Tails,848.29,579,home decor,Evergreen,48.62,6/21/2022
+690,Muffin Mix - Raisin Bran,892.17,26,books,Vortex,40.72,6/11/2022
+691,Cheese - Gouda Smoked,762.35,861,electronics,Evergreen,24.82,10/27/2022
+692,Salmon - Canned,402.47,618,sports equipment,Whirlwind,14.94,12/12/2022
+693,Island Oasis - Strawberry,363.59,325,books,Moonbeam,41.38,12/11/2022
+694,Pastry - Raisin Muffin - Mini,646.2,988,electronics,Sunset,8.45,4/18/2022
+695,Cheese - Parmesan Cubes,921.5,688,clothing,Mystique,11.84,12/16/2022
+696,Venison - Liver,756.67,931,books,Evergreen,1.02,5/11/2022
+697,Coffee - Decafenated,676.6,231,electronics,Polaris,45.0,2/16/2022
+698,Ham - Black Forest,173.36,897,sports equipment,Radiant,48.89,1/6/2022
+699,Goat - Leg,955.79,0,clothing,Sapphire,48.06,11/15/2022
+700,"Artichokes - Knobless, White",353.62,584,books,Sapphire,6.71,11/6/2022
+701,Veal - Insides Provini,519.3,262,home decor,Eclipse,25.25,2/16/2022
+702,Chervil - Fresh,369.08,962,home decor,Horizon,16.76,8/4/2022
+703,Dip - Tapenade,912.05,801,books,Starlight,10.94,7/11/2022
+704,Appetizer - Cheese Bites,983.69,344,home decor,Wildfire,28.55,7/4/2022
+705,Foam Cup 6 Oz,754.06,467,toys,Vortex,5.28,7/19/2022
+706,Tequila - Sauza Silver,128.81,708,toys,Avalanche,7.01,7/30/2022
+707,Durian Fruit,829.12,112,books,Luminous,2.48,3/22/2022
+708,Venison - Denver Leg Boneless,672.57,851,sports equipment,Thunderbolt,37.25,7/7/2022
+709,"Nut - Pecan, Halves",804.19,691,clothing,Thunderbolt,4.1,5/4/2022
+710,Coffee - Cafe Moreno,576.45,885,home decor,Acme,5.61,9/29/2022
+711,Vaccum Bag 10x13,274.1,734,electronics,Thunderbolt,40.24,6/18/2022
+712,Wine - Ej Gallo Sierra Valley,930.49,333,sports equipment,Cascade,40.88,12/23/2022
+713,Truffle Paste,932.18,874,home decor,Moonbeam,22.97,3/19/2022
+714,Rolled Oats,860.88,367,home decor,Moonbeam,37.55,2/15/2022
+715,Jolt Cola - Electric Blue,923.04,20,sports equipment,Horizon,11.62,7/7/2022
+716,Carbonated Water - Peach,858.21,982,books,Thunderbolt,14.62,4/10/2022
+717,Muffin Mix - Morning Glory,370.13,266,electronics,Vortex,6.15,5/30/2022
+718,Celery,470.04,760,books,Avalanche,26.01,12/4/2022
+719,Hot Choc Vending,971.03,497,toys,Avalanche,5.26,2/20/2022
+720,Appetizer - Tarragon Chicken,280.4,747,toys,Sapphire,49.07,3/15/2022
+721,"Wine - Red, Concha Y Toro",734.99,108,home decor,Vortex,25.45,1/17/2022
+722,"Liqueur Banana, Ramazzotti",484.9,421,electronics,Cascade,6.99,3/3/2022
+723,"Glass - Wine, Plastic, Clear 5 Oz",483.52,549,electronics,Eclipse,15.93,10/12/2022
+724,"Pork - Tenderloin, Fresh",959.27,115,toys,Vortex,3.44,2/17/2022
+725,Bag - Regular Kraft 20 Lb,438.18,669,clothing,Avalanche,46.48,10/18/2022
+726,Magnotta Bel Paese Red,546.75,416,electronics,Thunderbolt,20.04,9/20/2022
+727,"Pepper - Paprika, Hungarian",947.37,901,toys,Luminous,41.84,6/29/2022
+728,Pork - Shoulder,368.41,365,books,Silverstone,28.55,1/8/2022
+729,"Mustard - Dry, Powder",898.49,582,home decor,Polaris,36.38,9/11/2022
+730,Sauce - Rosee,588.23,588,sports equipment,Wildfire,32.39,4/28/2022
+731,"Pasta - Linguini, Dry",232.18,962,clothing,Mystique,34.68,12/2/2022
+732,Containter - 3oz Microwave Rect.,139.48,579,toys,Wildfire,32.15,11/30/2022
+733,Bread - Pumpernickel,274.23,314,electronics,Mystique,19.46,2/9/2022
+734,Shrimp - Black Tiger 8 - 12,733.48,37,clothing,Evergreen,15.5,5/18/2022
+735,Curry Powder Madras,980.69,394,home decor,Avalanche,41.87,4/7/2022
+736,Foil Wrap,668.22,954,clothing,Sunset,9.22,9/6/2022
+737,Wine - Toasted Head,614.56,400,books,Acme,41.44,1/26/2022
+738,Cardamon Seed / Pod,753.05,610,electronics,Polaris,42.22,7/27/2022
+739,Cup - 4oz Translucent,76.77,386,toys,Starlight,9.34,6/7/2022
+740,Ginger - Fresh,325.43,560,books,Sapphire,23.73,4/15/2022
+741,Muffin Batt - Ban Dream Zero,952.23,813,sports equipment,Mystique,19.8,8/20/2022
+742,"Nut - Peanut, Roasted",644.46,72,sports equipment,Cascade,39.62,1/22/2022
+743,Lettuce - Arugula,389.35,801,books,Vortex,14.29,8/18/2022
+744,Bread Base - Toscano,367.85,287,home decor,Sunset,3.81,1/31/2022
+745,Table Cloth 54x72 Colour,762.28,368,toys,Luminous,13.42,9/27/2022
+746,Sprouts - Corn,813.07,759,books,Polaris,11.63,4/7/2022
+747,"Beans - Long, Chinese",172.19,157,books,Sapphire,30.29,6/5/2022
+748,Flower - Daisies,928.54,636,books,Avalanche,30.81,2/20/2022
+749,Duck - Whole,555.2,425,books,Luminous,12.21,6/18/2022
+750,Onions - Green,797.81,657,home decor,Vortex,43.62,9/26/2022
+751,"Beef - Tongue, Fresh",402.9,873,books,Firefly,44.47,5/3/2022
+752,Bouq All Italian - Primerba,882.04,977,home decor,Cascade,33.67,11/3/2022
+753,Extract - Almond,394.41,944,electronics,Thunderbolt,18.83,4/12/2022
+754,Pepper - Red Chili,972.55,363,toys,Wildfire,33.39,7/16/2022
+755,Beans - Fava Fresh,221.92,880,sports equipment,Vortex,35.14,3/19/2022
+756,Ice Cream - Vanilla,549.59,704,sports equipment,Eclipse,47.17,9/28/2022
+757,Soup Campbells,879.15,28,home decor,Sapphire,32.64,10/24/2022
+758,"Pail - 4l White, With Handle",584.03,61,sports equipment,Horizon,37.96,11/12/2022
+759,"Chicken - Diced, Cooked",286.41,678,books,Whirlwind,43.21,4/24/2022
+760,Tea - Grapefruit Green Tea,400.39,718,electronics,Avalanche,21.65,12/14/2022
+761,Dawn Professionl Pot And Pan,567.02,714,sports equipment,Whirlwind,36.18,5/24/2022
+762,Latex Rubber Gloves Size 9,305.43,938,toys,Mystique,7.4,5/21/2022
+763,Parsnip,48.85,763,toys,Mystique,40.82,9/6/2022
+764,"Soup - Campbells, Classic Chix",557.24,498,toys,Avalanche,33.46,11/11/2022
+765,"Bread - Rolls, Corn",143.49,550,clothing,Wildfire,49.99,11/28/2022
+766,Mix - Cocktail Ice Cream,439.82,426,electronics,Starlight,15.04,4/26/2022
+767,Pepper - Green,646.66,904,electronics,Avalanche,39.47,11/16/2022
+768,Cake - French Pear Tart,390.74,655,sports equipment,Radiant,8.78,4/19/2022
+769,Pancetta,950.54,664,toys,Starlight,8.19,3/9/2022
+770,Glycerine,641.37,864,clothing,Eclipse,30.64,12/25/2022
+771,Toothpick Frilled,336.74,875,sports equipment,Whirlwind,15.78,1/10/2022
+772,Bagel - Sesame Seed Presliced,513.56,225,toys,Cascade,37.58,8/9/2022
+773,Rice - Basmati,830.39,828,sports equipment,Sapphire,39.04,1/23/2022
+774,Bar Mix - Lemon,390.71,717,clothing,Wildfire,7.88,2/10/2022
+775,"Veal - Brisket, Provimi,bnls",970.47,545,books,Sunset,32.62,12/2/2022
+776,"Vodka - Hot, Lnferno",712.8,555,books,Radiant,37.05,8/4/2022
+777,Apple - Northern Spy,684.61,938,clothing,Luminous,46.98,1/2/2022
+778,Hersey Shakes,238.93,964,clothing,Starlight,28.49,8/30/2022
+779,"Mushroom - Shitake, Dry",382.08,877,clothing,Firefly,34.22,10/4/2022
+780,Waffle Stix,798.15,789,home decor,Radiant,12.76,10/15/2022
+781,Wine - Chardonnay Mondavi,858.3,846,home decor,Evergreen,20.57,2/9/2022
+782,Butter Balls Salted,296.38,669,sports equipment,Whirlwind,22.17,6/22/2022
+783,"Mushroom - Chantrelle, Fresh",971.09,435,home decor,Radiant,29.63,11/28/2022
+784,"Lamb - Racks, Frenched",165.94,609,sports equipment,Evergreen,8.24,3/22/2022
+785,Venison - Liver,238.79,489,toys,Vortex,28.38,11/14/2022
+786,Soup Campbells,15.94,966,home decor,Radiant,36.16,1/20/2022
+787,Tomatoes Tear Drop,342.68,502,sports equipment,Cascade,11.38,3/10/2022
+788,Mcguinness - Blue Curacao,866.1,383,books,Thunderbolt,19.86,5/22/2022
+789,Wine - Savigny - Les - Beaune,582.4,929,books,Radiant,14.64,2/6/2022
+790,Praline Paste,378.54,100,toys,Luminous,16.88,3/10/2022
+791,Sauce - Roasted Red Pepper,384.17,880,home decor,Acme,40.22,5/25/2022
+792,Mustard Prepared,704.25,818,home decor,Horizon,16.16,8/2/2022
+793,Food Colouring - Pink,87.77,514,clothing,Cascade,38.91,8/4/2022
+794,Radish,58.44,200,electronics,Wildfire,30.32,9/18/2022
+795,Icecream Bar - Del Monte,511.3,556,clothing,Eclipse,36.98,9/3/2022
+796,Veal - Bones,899.87,482,home decor,Wildfire,8.31,6/8/2022
+797,Clam - Cherrystone,535.06,419,electronics,Wildfire,23.6,3/26/2022
+798,"Potatoes - Purple, Organic",848.5,904,books,Moonbeam,4.84,3/9/2022
+799,Capicola - Hot,556.04,625,home decor,Mystique,16.64,5/1/2022
+800,Pea - Snow,613.32,724,sports equipment,Mystique,47.47,9/25/2022
+801,Celery,393.77,8,sports equipment,Whirlwind,12.6,4/1/2022
+802,Liquid Aminios Acid - Braggs,734.48,503,home decor,Whirlwind,43.02,5/10/2022
+803,Ham - Cooked,218.25,589,electronics,Vortex,39.93,5/27/2022
+804,"Onions - Dried, Chopped",255.09,0,clothing,Firefly,41.86,2/12/2022
+805,Soap - Mr.clean Floor Soap,874.68,921,electronics,Firefly,12.07,5/4/2022
+806,"Oranges - Navel, 72",324.15,898,clothing,Silverstone,19.43,12/20/2022
+807,"Pasta - Cappellini, Dry",885.74,591,clothing,Polaris,36.12,10/9/2022
+808,Salt And Pepper Mix - Black,999.2,585,clothing,Firefly,46.4,3/16/2022
+809,Lamb - Whole Head Off,536.5,38,clothing,Wildfire,42.18,1/11/2022
+810,"Soup - French Onion, Dry",830.35,801,clothing,Sapphire,18.27,1/27/2022
+811,Lobster - Tail 6 Oz,34.82,102,home decor,Horizon,11.24,4/7/2022
+812,Cheese - Goat With Herbs,920.61,286,home decor,Luminous,24.54,6/11/2022
+813,"Chocolate - Pistoles, Lactee, Milk",830.6,482,sports equipment,Thunderbolt,5.43,8/18/2022
+814,Appetizer - Asian Shrimp Roll,813.99,82,electronics,Eclipse,38.85,1/1/2022
+815,Steampan - Foil,330.59,449,toys,Vortex,17.0,10/19/2022
+816,Cookie Choc,377.02,823,clothing,Wildfire,22.56,6/10/2022
+817,Gatorade - Xfactor Berry,498.28,665,clothing,Evergreen,19.56,9/3/2022
+818,Lotus Root,407.66,277,books,Eclipse,2.38,9/3/2022
+819,Bread - Onion Focaccia,414.56,711,home decor,Luminous,43.11,1/23/2022
+820,Apple - Fuji,130.45,742,toys,Silverstone,43.55,6/27/2022
+821,Tamarillo,273.24,789,electronics,Wildfire,41.35,11/12/2022
+822,Bread - Burger,360.01,841,electronics,Horizon,34.3,2/7/2022
+823,Sour Puss - Tangerine,765.61,425,toys,Moonbeam,13.46,1/30/2022
+824,Poppy Seed,896.79,215,home decor,Silverstone,0.61,10/31/2022
+825,"Fish - Artic Char, Cold Smoked",556.79,421,sports equipment,Mystique,14.45,12/29/2022
+826,"Marsala - Sperone, Fine, D.o.c.",545.03,442,sports equipment,Eclipse,49.29,10/25/2022
+827,Prunes - Pitted,640.79,776,clothing,Moonbeam,45.97,6/14/2022
+828,Juice - Mango,693.52,83,clothing,Acme,33.08,2/18/2022
+829,Vinegar - Raspberry,81.33,982,clothing,Polaris,15.93,2/16/2022
+830,Carbonated Water - Blackcherry,80.0,752,books,Mystique,9.94,11/22/2022
+831,Grapes - Red,509.14,164,books,Whirlwind,11.93,5/21/2022
+832,Nantucket Cranberry Juice,452.98,671,toys,Eclipse,33.13,7/18/2022
+833,Cookie - Oreo 100x2,55.6,849,electronics,Wildfire,17.12,8/13/2022
+834,Bread - Raisin Walnut Oval,481.57,316,home decor,Whirlwind,19.25,2/26/2022
+835,Ezy Change Mophandle,887.33,552,electronics,Whirlwind,46.91,12/16/2022
+836,Pan Grease,833.62,639,electronics,Sunset,37.91,1/3/2022
+837,Wine - Manischewitz Concord,796.73,330,books,Vortex,32.15,2/5/2022
+838,Cheese - La Sauvagine,944.16,280,books,Thunderbolt,34.29,5/26/2022
+839,Mudslide,367.29,424,electronics,Silverstone,5.68,6/26/2022
+840,"Sauce - Soya, Dark",88.01,209,toys,Avalanche,13.52,10/28/2022
+841,Soup - Campbells Beef Strogonoff,786.62,198,toys,Firefly,25.01,6/16/2022
+842,Crackers - Soda / Saltins,951.42,818,sports equipment,Wildfire,26.28,5/2/2022
+843,Herb Du Provence - Primerba,749.61,389,home decor,Avalanche,41.79,3/5/2022
+844,Beer - Fruli,146.41,269,electronics,Whirlwind,39.38,8/25/2022
+845,Muffin - Banana Nut Individual,180.72,465,books,Radiant,17.14,11/30/2022
+846,Bread - Wheat Baguette,652.85,394,electronics,Silverstone,37.8,6/17/2022
+847,Orange Roughy 4/6 Oz,440.62,116,books,Evergreen,35.62,12/15/2022
+848,Ecolab - Ster Bac,80.18,59,sports equipment,Avalanche,19.72,4/19/2022
+849,Creamers - 10%,508.93,625,sports equipment,Luminous,46.9,4/5/2022
+850,Cleaner - Pine Sol,489.16,113,books,Sapphire,47.78,4/17/2022
+851,Cookie - Oreo 100x2,605.67,476,books,Vortex,7.71,8/1/2022
+852,"Tart Shells - Savory, 3",613.89,253,electronics,Eclipse,42.32,2/18/2022
+853,Sausage - Blood Pudding,706.9,378,books,Cascade,12.11,4/7/2022
+854,Sugar - Splenda Sweetener,823.96,157,toys,Whirlwind,36.01,8/3/2022
+855,Lamb Shoulder Boneless Nz,120.79,547,toys,Whirlwind,28.14,3/17/2022
+856,Salt - Table,387.26,396,toys,Moonbeam,39.41,8/25/2022
+857,Creamers - 10%,639.86,75,home decor,Sapphire,17.23,9/23/2022
+858,Seedlings - Clamshell,270.88,678,home decor,Vortex,28.83,7/25/2022
+859,"Soup - Beef Conomme, Dry",944.42,578,toys,Sunset,15.41,8/9/2022
+860,Urban Zen Drinks,908.95,304,clothing,Eclipse,28.51,11/18/2022
+861,Cheese - Stilton,87.02,443,books,Evergreen,12.93,1/10/2022
+862,"Crab - Dungeness, Whole, live",100.08,103,toys,Wildfire,9.8,6/15/2022
+863,"Soup - Campbells, Butternut",224.78,855,toys,Eclipse,12.46,8/3/2022
+864,Curry Powder Madras,427.07,526,sports equipment,Sunset,22.19,3/19/2022
+865,Wine - Rosso Del Veronese Igt,173.36,82,electronics,Cascade,8.01,4/23/2022
+866,Puree - Kiwi,386.96,822,books,Sapphire,15.88,7/20/2022
+867,Container - Clear 32 Oz,90.08,764,home decor,Sunset,0.52,1/22/2022
+868,Mcgillicuddy Vanilla Schnap,871.35,796,books,Silverstone,4.11,12/30/2022
+869,Garam Marsala,314.8,496,electronics,Cascade,23.86,12/4/2022
+870,"Juice - Pineapple, 341 Ml",165.76,282,home decor,Avalanche,36.54,1/19/2022
+871,"Quail - Eggs, Fresh",677.2,328,books,Starlight,12.85,7/1/2022
+872,Lamb - Shoulder,729.59,494,books,Eclipse,44.32,3/8/2022
+873,Lychee - Canned,511.21,611,sports equipment,Silverstone,10.9,10/8/2022
+874,Lychee - Canned,879.64,775,home decor,Sunset,35.05,1/30/2022
+875,Corn - Mini,905.83,689,clothing,Starlight,36.0,9/15/2022
+876,Puree - Raspberry,570.85,521,books,Thunderbolt,0.04,5/12/2022
+877,Salmon Steak - Cohoe 8 Oz,686.83,112,toys,Mystique,7.97,12/10/2022
+878,Oregano - Fresh,34.03,115,home decor,Whirlwind,22.79,8/22/2022
+879,Pepper - Chilli Seeds Mild,962.47,349,electronics,Eclipse,1.96,2/9/2022
+880,Puree - Kiwi,867.06,446,sports equipment,Vortex,1.31,3/2/2022
+881,"Nut - Almond, Blanched, Sliced",158.17,633,books,Moonbeam,11.88,7/14/2022
+882,Muffin - Mix - Bran And Maple 15l,936.17,572,electronics,Whirlwind,27.02,8/31/2022
+883,"Cup - 6oz, Foam",430.68,106,clothing,Eclipse,8.22,3/14/2022
+884,Veal - Heart,154.24,974,sports equipment,Avalanche,46.34,11/7/2022
+885,Shrimp - 31/40,465.03,25,books,Whirlwind,33.5,9/10/2022
+886,Wine - Vidal Icewine Magnotta,949.13,225,toys,Acme,40.8,12/24/2022
+887,Napkin White - Starched,969.6,839,toys,Whirlwind,15.55,7/23/2022
+888,Flour - Pastry,742.35,128,electronics,Mystique,39.68,5/10/2022
+889,Wine - Sauvignon Blanc Oyster,841.71,993,books,Sapphire,32.35,1/23/2022
+890,Wine - Jackson Triggs Okonagan,121.87,172,books,Whirlwind,16.54,10/25/2022
+891,Mussels - Frozen,109.09,219,sports equipment,Thunderbolt,7.36,3/10/2022
+892,Olives - Morracan Dired,729.96,884,home decor,Thunderbolt,11.84,6/8/2022
+893,Wine - Stoneliegh Sauvignon,268.52,993,clothing,Eclipse,11.41,1/17/2022
+894,Calypso - Pineapple Passion,65.98,839,electronics,Avalanche,44.69,12/2/2022
+895,Beef Tenderloin Aaa,993.85,187,books,Mystique,46.66,8/1/2022
+896,Pimento - Canned,397.92,512,books,Cascade,37.89,3/25/2022
+897,Versatainer Nc - 8288,460.16,876,toys,Silverstone,3.76,11/2/2022
+898,Celery Root,865.97,333,toys,Firefly,32.68,1/13/2022
+899,Longos - Grilled Salmon With Bbq,367.33,834,books,Wildfire,3.66,4/27/2022
+900,Honey - Liquid,926.35,281,home decor,Avalanche,15.63,9/14/2022
+901,Blouse / Shirt / Sweater,883.94,3,electronics,Radiant,23.36,8/29/2022
+902,"Lemonade - Mandarin, 591 Ml",39.02,884,home decor,Avalanche,31.97,2/25/2022
+903,Daikon Radish,169.29,705,toys,Starlight,45.04,6/7/2022
+904,Ecolab - Hobart Washarm End Cap,530.97,321,electronics,Wildfire,18.35,11/30/2022
+905,Orange Roughy 6/8 Oz,111.22,423,sports equipment,Silverstone,33.22,12/10/2022
+906,"Artichokes - Knobless, White",985.96,310,books,Mystique,5.16,1/20/2022
+907,Daikon Radish,190.48,992,electronics,Firefly,6.42,12/4/2022
+908,Broom Handle,71.38,673,home decor,Whirlwind,27.57,11/15/2022
+909,Pastry - Mini French Pastries,158.1,768,toys,Vortex,21.39,10/6/2022
+910,Onions - Red Pearl,726.67,339,clothing,Cascade,44.14,5/23/2022
+911,"Shrimp - 16/20, Iqf, Shell On",457.56,799,electronics,Sapphire,32.33,1/30/2022
+912,Propel Sport Drink,500.05,615,electronics,Starlight,24.1,5/19/2022
+913,Dill Weed - Fresh,293.13,301,electronics,Polaris,25.78,2/10/2022
+914,"Stock - Chicken, White",489.86,506,sports equipment,Wildfire,18.74,7/8/2022
+915,Sugar - Palm,414.75,405,clothing,Polaris,41.55,12/7/2022
+916,Wine - Prosecco Valdobiaddene,222.58,115,clothing,Avalanche,25.67,11/26/2022
+917,Island Oasis - Ice Cream Mix,426.38,34,books,Radiant,43.77,3/9/2022
+918,The Pop Shoppe - Black Cherry,223.34,951,clothing,Moonbeam,24.51,4/25/2022
+919,Jello - Assorted,987.91,6,books,Cascade,25.77,3/1/2022
+920,Ice Cream - Turtles Stick Bar,178.54,189,clothing,Avalanche,9.01,2/18/2022
+921,Gelatine Leaves - Bulk,331.16,668,toys,Polaris,36.82,3/10/2022
+922,Browning Caramel Glace,937.28,228,electronics,Evergreen,17.43,11/14/2022
+923,Soap - Pine Sol Floor Cleaner,824.04,769,home decor,Cascade,12.58,8/22/2022
+924,"Turkey - Breast, Double",470.21,94,home decor,Eclipse,44.8,3/1/2022
+925,Wine - Delicato Merlot,783.88,798,books,Acme,26.91,2/24/2022
+926,"Plate - Foam, Bread And Butter",334.98,660,books,Thunderbolt,34.54,11/23/2022
+927,"Cheese - Romano, Grated",881.35,742,books,Cascade,36.61,4/22/2022
+928,Milk - Homo,897.86,153,electronics,Eclipse,22.63,8/25/2022
+929,Scrubbie - Scotchbrite Hand Pad,759.31,243,electronics,Evergreen,18.56,7/18/2022
+930,Bar Energy Chocchip,827.21,316,electronics,Avalanche,39.73,10/22/2022
+931,Cheese - Asiago,361.21,85,sports equipment,Wildfire,0.61,7/22/2022
+932,Pie Filling - Apple,138.81,973,clothing,Silverstone,33.56,10/7/2022
+933,Wine - Casablanca Valley,416.9,321,electronics,Sunset,23.98,1/28/2022
+934,"Pasta - Canelloni, Single Serve",871.04,182,electronics,Sapphire,34.42,7/26/2022
+935,"Red Snapper - Fillet, Skin On",172.25,83,sports equipment,Eclipse,5.77,12/27/2022
+936,Halibut - Steaks,777.47,927,sports equipment,Evergreen,42.26,11/11/2022
+937,Cheese - Marble,312.03,52,electronics,Evergreen,0.54,5/23/2022
+938,Lumpfish Black,506.04,644,electronics,Luminous,49.57,3/25/2022
+939,Oysters - Smoked,347.72,600,books,Luminous,45.58,10/3/2022
+940,Pepperoni Slices,894.65,422,books,Mystique,26.95,1/14/2022
+941,Isomalt,962.81,127,electronics,Mystique,1.87,11/15/2022
+942,"Shrimp - Baby, Warm Water",133.09,604,home decor,Sunset,17.66,3/21/2022
+943,Cheese - Camembert,967.46,178,clothing,Polaris,28.86,8/25/2022
+944,"Veal - Tenderloin, Untrimmed",203.64,898,electronics,Wildfire,43.48,9/16/2022
+945,Wine - Duboeuf Beaujolais,534.06,998,electronics,Starlight,2.45,7/1/2022
+946,Garlic,560.83,130,books,Radiant,12.12,11/9/2022
+947,Potatoes - Idaho 100 Count,882.98,994,clothing,Thunderbolt,48.91,3/18/2022
+948,Beans - Butter Lrg Lima,449.62,375,toys,Silverstone,47.94,9/26/2022
+949,Bread - Wheat Baguette,821.31,308,clothing,Eclipse,21.56,6/10/2022
+950,Cookies - Englishbay Oatmeal,316.02,792,electronics,Mystique,42.99,8/27/2022
+951,Turkey Leg With Drum And Thigh,469.12,4,electronics,Polaris,31.18,2/19/2022
+952,Wine - Chianti Classica Docg,668.87,455,sports equipment,Polaris,27.77,7/27/2022
+953,Cardamon Seed / Pod,34.59,925,sports equipment,Silverstone,7.68,6/24/2022
+954,"Cheese - Cheddar, Old White",138.16,137,toys,Whirlwind,2.42,5/10/2022
+955,Beef - Short Loin,480.02,124,clothing,Vortex,29.55,1/26/2022
+956,Duck - Whole,528.59,684,electronics,Polaris,43.86,6/27/2022
+957,Raspberries - Frozen,431.76,338,books,Vortex,3.28,6/18/2022
+958,Cattail Hearts,505.66,652,toys,Silverstone,37.52,5/25/2022
+959,Cheese - Taleggio D.o.p.,33.69,219,clothing,Thunderbolt,24.3,11/15/2022
+960,"Sole - Dover, Whole, Fresh",154.84,161,clothing,Horizon,46.74,2/15/2022
+961,Dried Figs,142.48,134,home decor,Evergreen,26.04,12/16/2022
+962,Dried Figs,794.38,217,sports equipment,Radiant,44.24,1/9/2022
+963,Garlic - Elephant,220.19,204,electronics,Cascade,7.97,10/24/2022
+964,Wine - Fino Tio Pepe Gonzalez,222.64,997,books,Vortex,7.58,11/22/2022
+965,Pastry - Trippleberry Muffin - Mini,750.94,424,home decor,Mystique,10.22,6/27/2022
+966,Trout Rainbow Whole,85.38,248,electronics,Cascade,36.1,1/9/2022
+967,Wine - Masi Valpolocell,387.21,465,toys,Vortex,10.53,6/11/2022
+968,Spice - Montreal Steak Spice,202.54,32,home decor,Cascade,48.59,7/25/2022
+969,Oil - Canola,810.47,456,clothing,Wildfire,39.02,2/9/2022
+970,Flour - Pastry,235.55,925,clothing,Horizon,23.44,12/11/2022
+971,Chick Peas - Dried,782.22,616,electronics,Polaris,9.79,1/26/2022
+972,"Cheese - Woolwich Goat, Log",798.09,841,home decor,Cascade,23.28,1/28/2022
+973,"Cheese - Cheddar, Old White",884.2,587,sports equipment,Mystique,17.41,8/25/2022
+974,"Fish - Artic Char, Cold Smoked",172.48,554,books,Cascade,7.55,7/15/2022
+975,Wine - Baron De Rothschild,288.54,780,toys,Luminous,42.91,3/22/2022
+976,"Soup - Beef, Base Mix",622.1,477,home decor,Avalanche,38.98,3/22/2022
+977,Sloe Gin - Mcguinness,316.49,577,electronics,Silverstone,36.84,5/6/2022
+978,Appetizer - Asian Shrimp Roll,667.82,879,electronics,Wildfire,40.96,9/9/2022
+979,Basil - Seedlings Cookstown,459.58,68,electronics,Eclipse,8.38,11/10/2022
+980,Oil - Coconut,298.59,843,sports equipment,Avalanche,5.01,12/28/2022
+981,Pickles - Gherkins,799.74,808,electronics,Moonbeam,40.13,3/2/2022
+982,Wine - Alsace Gewurztraminer,431.41,396,toys,Starlight,27.39,11/20/2022
+983,Island Oasis - Raspberry,193.13,433,clothing,Radiant,1.3,7/9/2022
+984,"Pasta - Canelloni, Single Serve",672.68,742,home decor,Luminous,4.45,12/7/2022
+985,Chocolate Eclairs,955.37,107,toys,Moonbeam,10.59,11/18/2022
+986,Amaretto,395.96,331,home decor,Avalanche,33.51,4/25/2022
+987,Liquid Aminios Acid - Braggs,616.82,184,home decor,Polaris,33.08,3/16/2022
+988,"Cheese - Havarti, Roasted Garlic",811.26,598,sports equipment,Moonbeam,33.63,1/15/2022
+989,Curry Powder Madras,698.72,691,electronics,Cascade,8.43,1/2/2022
+990,Sorrel - Fresh,518.78,385,clothing,Luminous,12.32,3/3/2022
+991,Wine - Shiraz South Eastern,151.68,564,books,Luminous,25.13,3/18/2022
+992,Longos - Cheese Tortellini,150.28,311,clothing,Horizon,2.1,7/24/2022
+993,"Cheese - Cheddar, Medium",910.98,635,sports equipment,Firefly,2.92,9/16/2022
+994,Durian Fruit,766.89,331,toys,Wildfire,19.15,10/25/2022
+995,Chicken - Whole,592.97,910,clothing,Sapphire,38.08,1/7/2022
+996,Paste - Black Olive,913.42,145,clothing,Moonbeam,27.43,3/25/2022
+997,Oven Mitts 17 Inch,515.12,77,sports equipment,Luminous,9.18,12/28/2022
+998,"Beef - Outside, Round",140.58,33,books,Sunset,32.15,8/4/2022
+999,Fond - Chocolate,589.65,514,home decor,Mystique,26.62,5/4/2022
+1000,"Pork - Tenderloin, Frozen",274.38,221,electronics,Moonbeam,25.23,1/2/2022
